@@ -1,0 +1,238 @@
+(2026-03-16T17:48:11.63196773) (2026-03-16T17:48:11.63203267) [Msg] Gazebo Sim Server v8.10.0
+(2026-03-16T17:48:11.64474588) (2026-03-16T17:48:11.64659057) [Msg] Loading SDF world file[/turtle_ws/install/turtlebot4_gz_bringup/share/turtlebot4_gz_bringup/worlds/warehouse.sdf].
+(2026-03-16T17:48:11.971582790) (2026-03-16T17:48:11.971604173) [Msg] Serving entity system service on [/entity/system/add]
+(2026-03-16T17:48:12.81768321) (2026-03-16T17:48:12.81780918) [Dbg] [Physics.cc:899] Loaded [gz::physics::dartsim::Plugin] from library [/opt/ros/jazzy/opt/gz_physics_vendor/lib/gz-physics-7/engine-plugins/libgz-physics-dartsim-plugin.so]
+(2026-03-16T17:48:12.81845936) (2026-03-16T17:48:12.81852516) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::Physics] for entity [1]
+(2026-03-16T17:48:12.89910575) (2026-03-16T17:48:12.89923740) [Msg] Create service on [/world/warehouse/create_multiple] (async)
+(2026-03-16T17:48:12.89976304) (2026-03-16T17:48:12.89982350) [Msg] Create service on [/world/warehouse/create_multiple/blocking] (blocking)
+(2026-03-16T17:48:12.90492954) (2026-03-16T17:48:12.90502978) [Msg] Remove service on [/world/warehouse/remove] (async)
+(2026-03-16T17:48:12.90530989) (2026-03-16T17:48:12.90536576) [Msg] Remove service on [/world/warehouse/remove/blocking] (blocking)
+(2026-03-16T17:48:12.90809256) (2026-03-16T17:48:12.90817388) [Msg] Pose service on [/world/warehouse/set_pose] (async)
+(2026-03-16T17:48:12.90845455) (2026-03-16T17:48:12.90851965) [Msg] Pose service on [/world/warehouse/set_pose/blocking] (blocking)
+(2026-03-16T17:48:12.91094292) (2026-03-16T17:48:12.91102698) [Msg] Pose service on [/world/warehouse/set_pose_vector] (async)
+(2026-03-16T17:48:12.91129739) (2026-03-16T17:48:12.91135375) [Msg] Pose service on [/world/warehouse/set_pose_vector/blocking] (blocking)
+(2026-03-16T17:48:12.91416041) (2026-03-16T17:48:12.91424675) [Msg] Light configuration service on [/world/warehouse/light_config] (async)
+(2026-03-16T17:48:12.91452077) (2026-03-16T17:48:12.91457912) [Msg] Light configuration service on [/world/warehouse/light_config/blocking] (blocking)
+(2026-03-16T17:48:12.94752384) (2026-03-16T17:48:12.94769247) [Msg] Physics service on [/world/warehouse/set_physics] (async)
+(2026-03-16T17:48:12.94813348) (2026-03-16T17:48:12.94819546) [Msg] Physics service on [/world/warehouse/set_physics/blocking] (blocking)
+(2026-03-16T17:48:12.95962983) (2026-03-16T17:48:12.95973175) [Msg] SphericalCoordinates service on [/world/warehouse/set_spherical_coordinates] (async)
+(2026-03-16T17:48:12.96002831) (2026-03-16T17:48:12.96008386) [Msg] SphericalCoordinates service on [/world/warehouse/set_spherical_coordinates/blocking] (blocking)
+(2026-03-16T17:48:12.96843829) (2026-03-16T17:48:12.96855043) [Msg] Enable collision service on [/world/warehouse/enable_collision] (async)
+(2026-03-16T17:48:12.96885190) (2026-03-16T17:48:12.96890720) [Msg] Enable collision service on [/world/warehouse/enable_collision/blocking] (blocking)
+(2026-03-16T17:48:12.97179542) (2026-03-16T17:48:12.97186894) [Msg] Disable collision service on [/world/warehouse/disable_collision] (async)
+(2026-03-16T17:48:12.97212185) (2026-03-16T17:48:12.97217826) [Msg] Disable collision service on [/world/warehouse/disable_collision/blocking] (blocking)
+(2026-03-16T17:48:12.97505214) (2026-03-16T17:48:12.97513160) [Msg] Material service on [/world/warehouse/visual_config] (async)
+(2026-03-16T17:48:12.97539427) (2026-03-16T17:48:12.97545185) [Msg] Material service on [/world/warehouse/visual_config/blocking] (blocking)
+(2026-03-16T17:48:12.97769165) (2026-03-16T17:48:12.97776605) [Msg] Material service on [/world/warehouse/wheel_slip] (async)
+(2026-03-16T17:48:12.97809590) (2026-03-16T17:48:12.97815342) [Msg] Material service on [/world/warehouse/wheel_slip/blocking] (blocking)
+(2026-03-16T17:48:12.97855419) (2026-03-16T17:48:12.97862060) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::UserCommands] for entity [1]
+(2026-03-16T17:48:12.100502715) (2026-03-16T17:48:12.100513493) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::SceneBroadcaster] for entity [1]
+(2026-03-16T17:48:12.101424115) (2026-03-16T17:48:12.101433027) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::Contact] for entity [1]
+(2026-03-16T17:48:12.103395894) (2026-03-16T17:48:12.103404918) [Msg] Loaded level [default]
+(2026-03-16T17:48:12.105272534) (2026-03-16T17:48:12.105282603) [Msg] Serving world controls on [/world/warehouse/control], [/world/warehouse/control/state] and [/world/warehouse/playback/control]
+(2026-03-16T17:48:12.105464074) (2026-03-16T17:48:12.105471364) [Msg] Serving GUI information on [/world/warehouse/gui/info]
+(2026-03-16T17:48:12.105499858) (2026-03-16T17:48:12.105505457) [Msg] World [warehouse] initialized with [default_physics] physics profile.
+(2026-03-16T17:48:12.105685068) (2026-03-16T17:48:12.105692869) [Msg] Serving world SDF generation service on [/world/warehouse/generate_world_sdf]
+(2026-03-16T17:48:12.105852758) (2026-03-16T17:48:12.105859945) [Msg] Serving world names on [/gazebo/worlds]
+(2026-03-16T17:48:12.105989897) (2026-03-16T17:48:12.105997308) [Msg] Resource path add service on [/gazebo/resource_paths/add].
+(2026-03-16T17:48:12.106107155) (2026-03-16T17:48:12.106113911) [Msg] Resource path get service on [/gazebo/resource_paths/get].
+(2026-03-16T17:48:12.508784492) (2026-03-16T17:48:12.508810031) [Msg] Resource path resolve service on [/gazebo/resource_paths/resolve].
+(2026-03-16T17:48:12.509948636) (2026-03-16T17:48:12.509973843) [Msg] Resource paths published on [/gazebo/resource_paths].
+(2026-03-16T17:48:12.510316656) (2026-03-16T17:48:12.510326143) [Msg] Server control service on [/server_control].
+(2026-03-16T17:48:13.57878845) (2026-03-16T17:48:13.57893008) [Msg] Found no publishers on /stats, adding root stats topic
+(2026-03-16T17:48:13.58207675) (2026-03-16T17:48:13.58217519) [Msg] Found no publishers on /clock, adding root clock topic
+(2026-03-16T17:48:13.58411155) (2026-03-16T17:48:13.58418823) [Dbg] [SimulationRunner.cc:533] Creating PostUpdate worker threads: 3
+(2026-03-16T17:48:13.58445643) (2026-03-16T17:48:13.58451374) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (0)
+(2026-03-16T17:48:13.58547195) (2026-03-16T17:48:13.58554243) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (1)
+(2026-03-16T17:48:13.238991469) (2026-03-16T17:48:13.239005571) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::PosePublisher] for entity [132]
+(2026-03-16T17:48:13.239210885) (2026-03-16T17:48:13.239215675) [Dbg] [UserCommands.cc:1094] Created entity [132] named [standard_dock]
+(2026-03-16T17:48:13.478005965) (2026-03-16T17:48:13.478023607) [Wrn] [SdfEntityCreator.cc:933] Gazebo does not support Ogre material scripts. See https://gazebosim.org/api/sim/8/migrationsdf.html#:~:text=Materials for details.
+(2026-03-16T17:48:13.478073031) (2026-03-16T17:48:13.478078946) [Wrn] [SdfEntityCreator.cc:949] Using an internal gazebo.material to parse Gazebo/DarkGrey
+(2026-03-16T17:48:13.478320332) (2026-03-16T17:48:13.478328988) [Wrn] [SdfEntityCreator.cc:933] Gazebo does not support Ogre material scripts. See https://gazebosim.org/api/sim/8/migrationsdf.html#:~:text=Materials for details.
+(2026-03-16T17:48:13.478360750) (2026-03-16T17:48:13.478366289) [Wrn] [SdfEntityCreator.cc:949] Using an internal gazebo.material to parse Gazebo/DarkGrey
+(2026-03-16T17:48:13.479649778) (2026-03-16T17:48:13.479670910) [Wrn] [SdfEntityCreator.cc:933] Gazebo does not support Ogre material scripts. See https://gazebosim.org/api/sim/8/migrationsdf.html#:~:text=Materials for details.
+(2026-03-16T17:48:13.479740033) (2026-03-16T17:48:13.479746470) [Wrn] [SdfEntityCreator.cc:949] Using an internal gazebo.material to parse Gazebo/DarkGrey
+(2026-03-16T17:48:13.480059273) (2026-03-16T17:48:13.480067751) [Wrn] [SdfEntityCreator.cc:933] Gazebo does not support Ogre material scripts. See https://gazebosim.org/api/sim/8/migrationsdf.html#:~:text=Materials for details.
+(2026-03-16T17:48:13.480101137) (2026-03-16T17:48:13.480106862) [Wrn] [SdfEntityCreator.cc:949] Using an internal gazebo.material to parse Gazebo/DarkGrey
+(2026-03-16T17:48:15.680988445) (2026-03-16T17:48:15.681044135) [Dbg] [SystemManager.cc:80] Loaded system [gz_ros2_control::GazeboSimROS2ControlPlugin] for entity [148]
+(2026-03-16T17:48:15.686400281) (2026-03-16T17:48:15.686429944) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::PosePublisher] for entity [148]
+(2026-03-16T17:48:15.687695154) (2026-03-16T17:48:15.687742068) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::Contact] for entity [148]
+(2026-03-16T17:48:15.704013560) (2026-03-16T17:48:15.704021719) [Dbg] [Sensors.cc:697] Configuring Sensors system
+(2026-03-16T17:48:15.704076547) (2026-03-16T17:48:15.704080035) [Dbg] [Sensors.cc:557] SensorsPrivate::Run
+(2026-03-16T17:48:15.704142688) (2026-03-16T17:48:15.704146291) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::Sensors] for entity [148]
+(2026-03-16T17:48:15.704179074) (2026-03-16T17:48:15.704190227) [Dbg] [Sensors.cc:532] SensorsPrivate::RenderThread started
+(2026-03-16T17:48:15.704227388) (2026-03-16T17:48:15.704233499) [Dbg] [Sensors.cc:337] Waiting for init
+(2026-03-16T17:48:15.704289714) (2026-03-16T17:48:15.704293121) [Dbg] [UserCommands.cc:1094] Created entity [148] named [turtlebot4]
+(2026-03-16T17:48:15.710346691) (2026-03-16T17:48:15.710355514) [Msg] Contact system publishing on /bumper_contact
+(2026-03-16T17:48:15.713714242) (2026-03-16T17:48:15.713734016) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-16T17:48:15.713758318) (2026-03-16T17:48:15.713761628) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [warehouse_collision] couldn't be created
+(2026-03-16T17:48:15.719268478) (2026-03-16T17:48:15.719278625) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-16T17:48:15.719293412) (2026-03-16T17:48:15.719296647) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [collision] couldn't be created
+(2026-03-16T17:48:15.719346353) (2026-03-16T17:48:15.719349856) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-16T17:48:15.719358661) (2026-03-16T17:48:15.719361886) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [collision] couldn't be created
+(2026-03-16T17:48:15.719632163) (2026-03-16T17:48:15.719636896) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-16T17:48:15.719647993) (2026-03-16T17:48:15.719651786) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [collision] couldn't be created
+(2026-03-16T17:48:15.719707558) (2026-03-16T17:48:15.719711596) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-16T17:48:15.719721719) (2026-03-16T17:48:15.719725441) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [collision] couldn't be created
+(2026-03-16T17:48:15.719775552) (2026-03-16T17:48:15.719779492) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-16T17:48:15.719789415) (2026-03-16T17:48:15.719793214) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [collision] couldn't be created
+(2026-03-16T17:48:15.721480672) (2026-03-16T17:48:15.721486444) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-16T17:48:15.721497611) (2026-03-16T17:48:15.721500896) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [base_link_fixed_joint_lump__shell_collision_collision_1] couldn't be created
+(2026-03-16T17:48:15.721530241) (2026-03-16T17:48:15.721533618) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-16T17:48:15.721553494) (2026-03-16T17:48:15.721555749) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [bumper_collision] couldn't be created
+(2026-03-16T17:48:15.730150405) (2026-03-16T17:48:15.730158096) [Wrn] [OBJLoader.cc:91] Both `d` and `Tr` parameters defined for "Chair". Use the value of `d` for dissolve (line 8 in .mtl.)
+
+(2026-03-16T17:48:15.730619653) (2026-03-16T17:48:15.730622925) [Wrn] [OBJLoader.cc:91] Both `d` and `Tr` parameters defined for "CoffeeTable". Use the value of `d` for dissolve (line 8 in .mtl.)
+
+(2026-03-16T17:48:15.854981318) (2026-03-16T17:48:15.854993864) [Dbg] [SimulationFeatures.cc:90] Simulation timestep set to: 0.003
+(2026-03-16T17:48:15.895409006) (2026-03-16T17:48:15.895419057) [Msg] Serving scene information on [/world/warehouse/scene/info]
+(2026-03-16T17:48:15.895569629) (2026-03-16T17:48:15.895574964) [Msg] Serving graph information on [/world/warehouse/scene/graph]
+(2026-03-16T17:48:15.895821108) (2026-03-16T17:48:15.895826445) [Msg] Serving full state on [/world/warehouse/state]
+(2026-03-16T17:48:15.895962702) (2026-03-16T17:48:15.895966174) [Msg] Serving full state (async) on [/world/warehouse/state_async]
+(2026-03-16T17:48:15.896104646) (2026-03-16T17:48:15.896108783) [Msg] Publishing scene information on [/world/warehouse/scene/info]
+(2026-03-16T17:48:15.896236743) (2026-03-16T17:48:15.896240981) [Msg] Publishing entity deletions on [/world/warehouse/scene/deletion]
+(2026-03-16T17:48:15.896313517) (2026-03-16T17:48:15.896317447) [Msg] Publishing state changes on [/world/warehouse/state]
+(2026-03-16T17:48:15.896401375) (2026-03-16T17:48:15.896405862) [Msg] Publishing pose messages on [/world/warehouse/pose/info]
+(2026-03-16T17:48:15.896571660) (2026-03-16T17:48:15.896581135) [Msg] Publishing dynamic pose messages on [/world/warehouse/dynamic_pose/info]
+(2026-03-16T17:48:15.898351304) (2026-03-16T17:48:15.898357787) [Dbg] [EntityComponentManager.cc:1656] Updated state thread iterators: 12 threads processing around 23 entities each.
+(2026-03-16T17:48:15.898932827) (2026-03-16T17:48:15.898947731) [Wrn] [Component.hh:127] Trying to serialize component with data type [St10shared_ptrIN3sdf3v147ElementEE], which doesn't have `operator<<`. Component will not be serialized.
+((2026-03-16T17:48:15.904524742) 2026-03-16T17:48:15.904542353() (2026-03-16T17:48:15.904566069) ) 2026-03-16T17:48:15.904578144) [Dbg] [SimulationRunner.cc:560] [Dbg] [SimulationRunner.cc:560] [Dbg] [SimulationRunner.cc:560] Exiting postupdate worker thread (01)
+1)
+(2026-03-16T17:48:15.905299893) (2026-03-16T17:48:15.905351359) [Dbg] [SimulationRunner.cc:533] Creating PostUpdate worker threads: 8
+(2026-03-16T17:48:15.905524143) (2026-03-16T17:48:15.905535272) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (0)
+(2026-03-16T17:48:15.905782291) (2026-03-16T17:48:15.905798484) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (1)
+(2026-03-16T17:48:15.905950195) (2026-03-16T17:48:15.905976540) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (2)
+(2026-03-16T17:48:15.906084315) (2026-03-16T17:48:15.906097276) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (3)
+(2026-03-16T17:48:15.906162217) (2026-03-16T17:48:15.906169189) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (4)
+(2026-03-16T17:48:15.906310852) (2026-03-16T17:48:15.906322683) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (5)
+(2026-03-16T17:48:15.906417948) (2026-03-16T17:48:15.906427137) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (6)
+(2026-03-16T17:48:15.909388886) (2026-03-16T17:48:15.909404376) [Dbg] [Sensors.cc:953] Initialization needed
+(2026-03-16T17:48:15.909466100) (2026-03-16T17:48:15.909473797) [Dbg] [Sensors.cc:349] Initializing render context
+(2026-03-16T17:48:15.909609100) (2026-03-16T17:48:15.909615901) [Msg] Loading plugin [gz-rendering-ogre]
+(2026-03-16T17:48:16.6478239) (2026-03-16T17:48:16.6482776) [Dbg] [RenderUtil.cc:2646] Create scene [scene]
+((2026-03-16T17:48:16.7481407) ((2026-03-16T17:48:16.7502790) (2026-03-16T17:48:16.7513755) 2026-03-16T17:48:16.7505509) [Dbg] [Sensors.cc:953] [Dbg] [Sensors.cc:391] Initialization needed
+
+Rendering Thread initialized
+(2026-03-16T17:48:16.968501902) (2026-03-16T17:48:16.968513484) [Wrn] [ColladaLoader.cc:2395] Triangle input semantic: 'COLOR' is currently not supported
+(2026-03-16T17:48:17.35213807) (2026-03-16T17:48:17.35221809) [Wrn] [ColladaLoader.cc:2395] Triangle input semantic: 'COLOR' is currently not supported
+(2026-03-16T17:48:17.788717614) (2026-03-16T17:48:17.788741008) [Dbg] [RgbdCameraSensor.cc:210] RGB images for [turtlebot4::oakd_rgb_camera_frame::rgbd_camera] advertised on [world/warehouse/model/turtlebot4/link/oakd_rgb_camera_frame/sensor/rgbd_camera/image]
+(2026-03-16T17:48:17.789237421) (2026-03-16T17:48:17.789251288) [Dbg] [RgbdCameraSensor.cc:224] Depth images for [turtlebot4::oakd_rgb_camera_frame::rgbd_camera] advertised on [world/warehouse/model/turtlebot4/link/oakd_rgb_camera_frame/sensor/rgbd_camera/depth_image]
+(2026-03-16T17:48:17.789670840) (2026-03-16T17:48:17.789683303) [Dbg] [RgbdCameraSensor.cc:238] Points for [turtlebot4::oakd_rgb_camera_frame::rgbd_camera] advertised on [world/warehouse/model/turtlebot4/link/oakd_rgb_camera_frame/sensor/rgbd_camera/points]
+(2026-03-16T17:48:17.790127582) (2026-03-16T17:48:17.790138756) [Dbg] [CameraSensor.cc:695] Camera info for [turtlebot4::oakd_rgb_camera_frame::rgbd_camera] advertised on [world/warehouse/model/turtlebot4/link/oakd_rgb_camera_frame/sensor/rgbd_camera/camera_info]
+(2026-03-16T17:48:17.797387082) (2026-03-16T17:48:17.797398315) [Dbg] [Lidar.cc:139] Laser scans for [standard_dock::green_buoy_link::green_buoy] advertised on [world/warehouse/model/standard_dock/link/green_buoy_link/sensor/green_buoy/scan]
+(2026-03-16T17:48:17.797959757) (2026-03-16T17:48:17.797969735) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [standard_dock::green_buoy_link::green_buoy] advertised on [world/warehouse/model/standard_dock/link/green_buoy_link/sensor/green_buoy/scan/points]
+(2026-03-16T17:48:17.800827404) (2026-03-16T17:48:17.800840602) [Dbg] [Lidar.cc:139] Laser scans for [standard_dock::halo_link::halo] advertised on [world/warehouse/model/standard_dock/link/halo_link/sensor/halo/scan]
+(2026-03-16T17:48:17.802182308) (2026-03-16T17:48:17.802198664) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [standard_dock::halo_link::halo] advertised on [world/warehouse/model/standard_dock/link/halo_link/sensor/halo/scan/points]
+(2026-03-16T17:48:17.806263412) (2026-03-16T17:48:17.806280173) [Dbg] [Lidar.cc:139] Laser scans for [standard_dock::red_buoy_link::red_buoy] advertised on [world/warehouse/model/standard_dock/link/red_buoy_link/sensor/red_buoy/scan]
+(2026-03-16T17:48:17.806613301) (2026-03-16T17:48:17.806625272) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [standard_dock::red_buoy_link::red_buoy] advertised on [world/warehouse/model/standard_dock/link/red_buoy_link/sensor/red_buoy/scan/points]
+(2026-03-16T17:48:17.812707143) (2026-03-16T17:48:17.812721528) [Dbg] [Lidar.cc:139] Laser scans for [standard_dock::yellow_buoy_link::yellow_buoy] advertised on [world/warehouse/model/standard_dock/link/yellow_buoy_link/sensor/yellow_buoy/scan]
+(2026-03-16T17:48:17.813751120) (2026-03-16T17:48:17.813762608) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [standard_dock::yellow_buoy_link::yellow_buoy] advertised on [world/warehouse/model/standard_dock/link/yellow_buoy_link/sensor/yellow_buoy/scan/points]
+(2026-03-16T17:48:17.817168442) (2026-03-16T17:48:17.817182040) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::base_link::cliff_front_left] advertised on [world/warehouse/model/turtlebot4/link/base_link/sensor/cliff_front_left/scan]
+(2026-03-16T17:48:17.817371871) (2026-03-16T17:48:17.817376772) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::base_link::cliff_front_left] advertised on [world/warehouse/model/turtlebot4/link/base_link/sensor/cliff_front_left/scan/points]
+(2026-03-16T17:48:17.818169082) (2026-03-16T17:48:17.818178836) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::base_link::cliff_front_right] advertised on [world/warehouse/model/turtlebot4/link/base_link/sensor/cliff_front_right/scan]
+(2026-03-16T17:48:17.818331872) (2026-03-16T17:48:17.818336660) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::base_link::cliff_front_right] advertised on [world/warehouse/model/turtlebot4/link/base_link/sensor/cliff_front_right/scan/points]
+(2026-03-16T17:48:17.818777076) (2026-03-16T17:48:17.818782977) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::base_link::cliff_side_left] advertised on [world/warehouse/model/turtlebot4/link/base_link/sensor/cliff_side_left/scan]
+(2026-03-16T17:48:17.818897878) (2026-03-16T17:48:17.818902683) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::base_link::cliff_side_left] advertised on [world/warehouse/model/turtlebot4/link/base_link/sensor/cliff_side_left/scan/points]
+(2026-03-16T17:48:17.819818885) (2026-03-16T17:48:17.819831730) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::base_link::cliff_side_right] advertised on [world/warehouse/model/turtlebot4/link/base_link/sensor/cliff_side_right/scan]
+(2026-03-16T17:48:17.822152133) (2026-03-16T17:48:17.822175419) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::base_link::cliff_side_right] advertised on [world/warehouse/model/turtlebot4/link/base_link/sensor/cliff_side_right/scan/points]
+(2026-03-16T17:48:17.823229635) (2026-03-16T17:48:17.823255256) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::ir_intensity_front_center_left::ir_intensity_front_center_left] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_front_center_left/sensor/ir_intensity_front_center_left/scan]
+(2026-03-16T17:48:17.825479344) (2026-03-16T17:48:17.825490448) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::ir_intensity_front_center_left::ir_intensity_front_center_left] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_front_center_left/sensor/ir_intensity_front_center_left/scan/points]
+(2026-03-16T17:48:17.826295814) (2026-03-16T17:48:17.826304515) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::ir_intensity_front_center_right::ir_intensity_front_center_right] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_front_center_right/sensor/ir_intensity_front_center_right/scan]
+(2026-03-16T17:48:17.826516392) (2026-03-16T17:48:17.826522008) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::ir_intensity_front_center_right::ir_intensity_front_center_right] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_front_center_right/sensor/ir_intensity_front_center_right/scan/points]
+(2026-03-16T17:48:17.827096249) (2026-03-16T17:48:17.827103843) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::ir_intensity_front_left::ir_intensity_front_left] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_front_left/sensor/ir_intensity_front_left/scan]
+(2026-03-16T17:48:17.827305742) (2026-03-16T17:48:17.827311162) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::ir_intensity_front_left::ir_intensity_front_left] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_front_left/sensor/ir_intensity_front_left/scan/points]
+(2026-03-16T17:48:17.827769920) (2026-03-16T17:48:17.827776242) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::ir_intensity_front_right::ir_intensity_front_right] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_front_right/sensor/ir_intensity_front_right/scan]
+(2026-03-16T17:48:17.828659468) (2026-03-16T17:48:17.828669982) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::ir_intensity_front_right::ir_intensity_front_right] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_front_right/sensor/ir_intensity_front_right/scan/points]
+(2026-03-16T17:48:17.829375089) (2026-03-16T17:48:17.829383671) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::ir_intensity_left::ir_intensity_left] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_left/sensor/ir_intensity_left/scan]
+(2026-03-16T17:48:17.829509851) (2026-03-16T17:48:17.829526826) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::ir_intensity_left::ir_intensity_left] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_left/sensor/ir_intensity_left/scan/points]
+(2026-03-16T17:48:17.832460533) (2026-03-16T17:48:17.832470988) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::ir_intensity_right::ir_intensity_right] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_right/sensor/ir_intensity_right/scan]
+(2026-03-16T17:48:17.834649775) (2026-03-16T17:48:17.834662039) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::ir_intensity_right::ir_intensity_right] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_right/sensor/ir_intensity_right/scan/points]
+(2026-03-16T17:48:17.835907107) (2026-03-16T17:48:17.835915545) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::ir_intensity_side_left::ir_intensity_side_left] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_side_left/sensor/ir_intensity_side_left/scan]
+(2026-03-16T17:48:17.836069776) (2026-03-16T17:48:17.836074361) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::ir_intensity_side_left::ir_intensity_side_left] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_side_left/sensor/ir_intensity_side_left/scan/points]
+(2026-03-16T17:48:17.836571598) (2026-03-16T17:48:17.836578357) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::rplidar_link::rplidar] advertised on [world/warehouse/model/turtlebot4/link/rplidar_link/sensor/rplidar/scan]
+(2026-03-16T17:48:17.836698741) (2026-03-16T17:48:17.836703449) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::rplidar_link::rplidar] advertised on [world/warehouse/model/turtlebot4/link/rplidar_link/sensor/rplidar/scan/points]
+(2026-03-16T17:48:17.840994251) (2026-03-16T17:48:17.841005286) [Wrn] [OgreGpuRays.cc:292] Horizontal FOV for GPU rays is capped at 180 degrees.
+(2026-03-16T17:53:32.93504581) (2026-03-16T17:53:32.93518530) [Dbg] [UserCommands.cc:1094] Created entity [266] named [cone]
+(2026-03-16T17:53:32.100641820) (2026-03-16T17:53:32.100654160) [Wrn] [SDFFeatures.cc:350] DART: Cone is not a supported collision geomerty primitive, using generated mesh of a cone instead
+(2026-03-16T17:54:10.589568197) (2026-03-16T17:54:10.589602876) [Dbg] [UserCommands.cc:1550] Enabled collision [6]
+(2026-03-16T17:54:10.589743613) (2026-03-16T17:54:10.589757520) [Dbg] [UserCommands.cc:1550] Enabled collision [11]
+(2026-03-16T17:54:10.589828364) (2026-03-16T17:54:10.589840146) [Dbg] [UserCommands.cc:1550] Enabled collision [15]
+(2026-03-16T17:54:10.589904683) (2026-03-16T17:54:10.589915749) [Dbg] [UserCommands.cc:1550] Enabled collision [19]
+(2026-03-16T17:54:10.589989581) (2026-03-16T17:54:10.590001188) [Dbg] [UserCommands.cc:1550] Enabled collision [23]
+(2026-03-16T17:54:10.590059495) (2026-03-16T17:54:10.590071584) [Dbg] [UserCommands.cc:1550] Enabled collision [27]
+(2026-03-16T17:54:10.590144227) (2026-03-16T17:54:10.590159170) [Dbg] [UserCommands.cc:1550] Enabled collision [31]
+(2026-03-16T17:54:10.590224445) (2026-03-16T17:54:10.590239130) [Dbg] [UserCommands.cc:1550] Enabled collision [35]
+(2026-03-16T17:54:10.590301423) (2026-03-16T17:54:10.590313060) [Dbg] [UserCommands.cc:1550] Enabled collision [39]
+(2026-03-16T17:54:10.590385262) (2026-03-16T17:54:10.590398182) [Dbg] [UserCommands.cc:1550] Enabled collision [43]
+(2026-03-16T17:54:10.590461507) (2026-03-16T17:54:10.590473718) [Dbg] [UserCommands.cc:1550] Enabled collision [47]
+(2026-03-16T17:54:10.590545818) (2026-03-16T17:54:10.590558537) [Dbg] [UserCommands.cc:1550] Enabled collision [51]
+(2026-03-16T17:54:10.590624895) (2026-03-16T17:54:10.590637024) [Dbg] [UserCommands.cc:1550] Enabled collision [55]
+(2026-03-16T17:54:10.590715990) (2026-03-16T17:54:10.590729072) [Dbg] [UserCommands.cc:1550] Enabled collision [59]
+(2026-03-16T17:54:10.590798368) (2026-03-16T17:54:10.590813812) [Dbg] [UserCommands.cc:1550] Enabled collision [63]
+(2026-03-16T17:54:10.590889070) (2026-03-16T17:54:10.590902708) [Dbg] [UserCommands.cc:1550] Enabled collision [67]
+(2026-03-16T17:54:10.593442823) (2026-03-16T17:54:10.593465777) [Dbg] [UserCommands.cc:1550] Enabled collision [68]
+(2026-03-16T17:54:10.593592185) (2026-03-16T17:54:10.593601113) [Dbg] [UserCommands.cc:1550] Enabled collision [69]
+(2026-03-16T17:54:10.593660095) (2026-03-16T17:54:10.593668339) [Dbg] [UserCommands.cc:1550] Enabled collision [70]
+(2026-03-16T17:54:10.600716625) (2026-03-16T17:54:10.600747410) [Dbg] [UserCommands.cc:1550] Enabled collision [71]
+(2026-03-16T17:54:10.600850642) (2026-03-16T17:54:10.600860235) [Dbg] [UserCommands.cc:1550] Enabled collision [72]
+(2026-03-16T17:54:10.600911621) (2026-03-16T17:54:10.600919840) [Dbg] [UserCommands.cc:1550] Enabled collision [76]
+(2026-03-16T17:54:10.600998342) (2026-03-16T17:54:10.601007972) [Dbg] [UserCommands.cc:1550] Enabled collision [77]
+(2026-03-16T17:54:10.601063575) (2026-03-16T17:54:10.601072225) [Dbg] [UserCommands.cc:1550] Enabled collision [78]
+(2026-03-16T17:54:10.601122231) (2026-03-16T17:54:10.601131423) [Dbg] [UserCommands.cc:1550] Enabled collision [79]
+(2026-03-16T17:54:10.601182790) (2026-03-16T17:54:10.601192335) [Dbg] [UserCommands.cc:1550] Enabled collision [80]
+(2026-03-16T17:54:10.601246817) (2026-03-16T17:54:10.601254805) [Dbg] [UserCommands.cc:1550] Enabled collision [81]
+(2026-03-16T17:54:10.601317264) (2026-03-16T17:54:10.601326433) [Dbg] [UserCommands.cc:1550] Enabled collision [85]
+(2026-03-16T17:54:10.601375557) (2026-03-16T17:54:10.601387872) [Dbg] [UserCommands.cc:1550] Enabled collision [86]
+(2026-03-16T17:54:10.601443830) (2026-03-16T17:54:10.601453848) [Dbg] [UserCommands.cc:1550] Enabled collision [87]
+(2026-03-16T17:54:10.601508515) (2026-03-16T17:54:10.601518723) [Dbg] [UserCommands.cc:1550] Enabled collision [88]
+(2026-03-16T17:54:10.601570266) (2026-03-16T17:54:10.601578509) [Dbg] [UserCommands.cc:1550] Enabled collision [89]
+(2026-03-16T17:54:10.601637195) (2026-03-16T17:54:10.601645853) [Dbg] [UserCommands.cc:1550] Enabled collision [90]
+(2026-03-16T17:54:10.610646816) (2026-03-16T17:54:10.610662859) [Dbg] [UserCommands.cc:1550] Enabled collision [94]
+(2026-03-16T17:54:10.610718498) (2026-03-16T17:54:10.610724805) [Dbg] [UserCommands.cc:1550] Enabled collision [95]
+(2026-03-16T17:54:10.610761575) (2026-03-16T17:54:10.610766511) [Dbg] [UserCommands.cc:1550] Enabled collision [96]
+(2026-03-16T17:54:10.610802771) (2026-03-16T17:54:10.610807949) [Dbg] [UserCommands.cc:1550] Enabled collision [97]
+(2026-03-16T17:54:10.610842104) (2026-03-16T17:54:10.610846787) [Dbg] [UserCommands.cc:1550] Enabled collision [98]
+(2026-03-16T17:54:10.610879076) (2026-03-16T17:54:10.610883966) [Dbg] [UserCommands.cc:1550] Enabled collision [99]
+(2026-03-16T17:54:10.610950876) (2026-03-16T17:54:10.610957657) [Dbg] [UserCommands.cc:1550] Enabled collision [103]
+(2026-03-16T17:54:10.611913828) (2026-03-16T17:54:10.611920111) [Dbg] [UserCommands.cc:1550] Enabled collision [107]
+(2026-03-16T17:54:10.611961015) (2026-03-16T17:54:10.611964633) [Dbg] [UserCommands.cc:1550] Enabled collision [111]
+(2026-03-16T17:54:10.611986180) (2026-03-16T17:54:10.611989789) [Dbg] [UserCommands.cc:1550] Enabled collision [115]
+(2026-03-16T17:54:10.612011062) (2026-03-16T17:54:10.612015088) [Dbg] [UserCommands.cc:1550] Enabled collision [119]
+(2026-03-16T17:54:10.612036234) (2026-03-16T17:54:10.612039826) [Dbg] [UserCommands.cc:1550] Enabled collision [123]
+(2026-03-16T17:54:10.612062250) (2026-03-16T17:54:10.612065840) [Dbg] [UserCommands.cc:1550] Enabled collision [127]
+(2026-03-16T17:54:10.612088357) (2026-03-16T17:54:10.612092040) [Dbg] [UserCommands.cc:1550] Enabled collision [131]
+(2026-03-16T17:54:10.621771616) (2026-03-16T17:54:10.621799990) [Dbg] [UserCommands.cc:1550] Enabled collision [135]
+(2026-03-16T17:54:10.622907530) (2026-03-16T17:54:10.622915180) [Dbg] [UserCommands.cc:1550] Enabled collision [152]
+(2026-03-16T17:54:10.622966775) (2026-03-16T17:54:10.622972862) [Dbg] [UserCommands.cc:1550] Enabled collision [153]
+(2026-03-16T17:54:10.623011801) (2026-03-16T17:54:10.623017542) [Dbg] [UserCommands.cc:1550] Enabled collision [164]
+(2026-03-16T17:54:10.623076053) (2026-03-16T17:54:10.623082270) [Dbg] [UserCommands.cc:1550] Enabled collision [193]
+(2026-03-16T17:54:10.623120169) (2026-03-16T17:54:10.623126689) [Dbg] [UserCommands.cc:1550] Enabled collision [196]
+(2026-03-16T17:54:10.623164221) (2026-03-16T17:54:10.623170078) [Dbg] [UserCommands.cc:1550] Enabled collision [201]
+(2026-03-16T17:54:10.623971356) (2026-03-16T17:54:10.623984002) [Dbg] [UserCommands.cc:1550] Enabled collision [212]
+(2026-03-16T17:54:10.624049749) (2026-03-16T17:54:10.624056793) [Dbg] [UserCommands.cc:1550] Enabled collision [215]
+(2026-03-16T17:54:10.624100718) (2026-03-16T17:54:10.624106406) [Dbg] [UserCommands.cc:1550] Enabled collision [218]
+(2026-03-16T17:54:10.624146745) (2026-03-16T17:54:10.624153535) [Dbg] [UserCommands.cc:1550] Enabled collision [222]
+(2026-03-16T17:54:10.624197171) (2026-03-16T17:54:10.624203344) [Dbg] [UserCommands.cc:1550] Enabled collision [226]
+(2026-03-16T17:54:10.624242127) (2026-03-16T17:54:10.624248280) [Dbg] [UserCommands.cc:1550] Enabled collision [230]
+(2026-03-16T17:54:10.624290998) (2026-03-16T17:54:10.624297265) [Dbg] [UserCommands.cc:1550] Enabled collision [269]
+(2026-03-16T17:54:51.517772004) (2026-03-16T17:54:51.517807825) [Msg] Listening to instantaneous wrench commands in [/world/warehouse/wrench]
+(2026-03-16T17:54:51.518317568) (2026-03-16T17:54:51.518341223) [Msg] Listening to persistent wrench commands in [/world/warehouse/wrench/persistent]
+(2026-03-16T17:54:51.518554813) (2026-03-16T17:54:51.518743395) [Msg] Listening to wrench clear commands in [/world/warehouse/wrench/clear]
+(2026-03-16T17:54:51.518828803) (2026-03-16T17:54:51.518838380) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::ApplyLinkWrench] for entity [1]
+(2026-03-16T17:54:51.5242782912026-03-16T17:54:51.524285107) (() (2026-03-16T17:54:51.5243559752026-03-16T17:54:51.5243789172026-03-16T17:54:51.5243559752026-03-16T17:54:51.524378917(2026-03-16T17:54:51.5243559752026-03-16T17:54:51.524378917() [Dbg] [SimulationRunner.cc:560] Exiting postupdate worker thread (1)
+) (2026-03-16T17:54:51.526293781) [Dbg] [SimulationRunner.cc:560] Exiting postupdate worker thread (6)
+) [Dbg] [SimulationRunner.cc:560] Exiting postupdate worker thread (2)
+(2026-03-16T17:54:51.529134390) (2026-03-16T17:54:51.529178646) [Dbg] [SimulationRunner.cc:560] Exiting postupdate worker thread (0)
+(2026-03-16T17:54:51.5319704752026-03-16T17:54:51.532025347) () (2026-03-16T17:54:51.532082627) 2026-03-16T17:54:51.532064818) [Dbg] [SimulationRunner.cc:560] Exiting postupdate worker thread (4)
+Exiting postupdate worker thread (3)
+2026-03-16T17:54:51.524427444) (2026-03-16T17:54:51.533159148) [Dbg] [SimulationRunner.cc:560] Exiting postupdate worker thread (5)
+(2026-03-16T17:54:51.533731391) (2026-03-16T17:54:51.533758435) [Dbg] [SimulationRunner.cc:533] Creating PostUpdate worker threads: 8
+(2026-03-16T17:54:51.533832800) (2026-03-16T17:54:51.533844475) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (0)
+(2026-03-16T17:54:51.534043282) (2026-03-16T17:54:51.534056525) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (1)
+(2026-03-16T17:54:51.534188477) (2026-03-16T17:54:51.534201634) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (2)
+(2026-03-16T17:54:51.534298728) (2026-03-16T17:54:51.534310178) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (3)
+(2026-03-16T17:54:51.534399324) (2026-03-16T17:54:51.534415016) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (4)
+(2026-03-16T17:54:51.534703388) (2026-03-16T17:54:51.534723629) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (5)
+(2026-03-16T17:54:51.534854034) (2026-03-16T17:54:51.534868395) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (6)
+(2026-03-16T17:56:19.600228190) (2026-03-16T17:56:19.600251868) [Dbg] [UserCommands.cc:1144] Requesting removal of entity [266]
+(2026-03-16T17:56:45.733150180) (2026-03-16T17:56:45.733191414) [Dbg] [UserCommands.cc:1094] Created entity [270] named [cylinder]

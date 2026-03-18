@@ -1,0 +1,153 @@
+(2026-03-18T01:22:03.874011974) (2026-03-18T01:22:03.874029972) [Msg] Gazebo Sim Server v8.10.0
+(2026-03-18T01:22:03.878226177) (2026-03-18T01:22:03.878653198) [Msg] Loading SDF world file[/turtle_ws/install/turtlebot4_gz_bringup/share/turtlebot4_gz_bringup/worlds/warehouse.sdf].
+(2026-03-18T01:22:04.893479753) (2026-03-18T01:22:04.893550066) [Msg] Serving entity system service on [/entity/system/add]
+(2026-03-18T01:22:04.938676753) (2026-03-18T01:22:04.938685046) [Dbg] [Physics.cc:899] Loaded [gz::physics::dartsim::Plugin] from library [/opt/ros/jazzy/opt/gz_physics_vendor/lib/gz-physics-7/engine-plugins/libgz-physics-dartsim-plugin.so]
+(2026-03-18T01:22:04.938725026) (2026-03-18T01:22:04.938727483) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::Physics] for entity [1]
+(2026-03-18T01:22:04.940346869) (2026-03-18T01:22:04.940351569) [Msg] Create service on [/world/warehouse/create_multiple] (async)
+(2026-03-18T01:22:04.940370336) (2026-03-18T01:22:04.940372674) [Msg] Create service on [/world/warehouse/create_multiple/blocking] (blocking)
+(2026-03-18T01:22:04.940458976) (2026-03-18T01:22:04.940461468) [Msg] Remove service on [/world/warehouse/remove] (async)
+(2026-03-18T01:22:04.940471896) (2026-03-18T01:22:04.940474134) [Msg] Remove service on [/world/warehouse/remove/blocking] (blocking)
+(2026-03-18T01:22:04.940542687) (2026-03-18T01:22:04.940545207) [Msg] Pose service on [/world/warehouse/set_pose] (async)
+(2026-03-18T01:22:04.940559955) (2026-03-18T01:22:04.940562241) [Msg] Pose service on [/world/warehouse/set_pose/blocking] (blocking)
+(2026-03-18T01:22:04.940625516) (2026-03-18T01:22:04.940627968) [Msg] Pose service on [/world/warehouse/set_pose_vector] (async)
+(2026-03-18T01:22:04.940638079) (2026-03-18T01:22:04.940640333) [Msg] Pose service on [/world/warehouse/set_pose_vector/blocking] (blocking)
+(2026-03-18T01:22:04.940730665) (2026-03-18T01:22:04.940733149) [Msg] Light configuration service on [/world/warehouse/light_config] (async)
+(2026-03-18T01:22:04.940743844) (2026-03-18T01:22:04.940746103) [Msg] Light configuration service on [/world/warehouse/light_config/blocking] (blocking)
+(2026-03-18T01:22:04.941033126) (2026-03-18T01:22:04.941036363) [Msg] Physics service on [/world/warehouse/set_physics] (async)
+(2026-03-18T01:22:04.941048701) (2026-03-18T01:22:04.941050992) [Msg] Physics service on [/world/warehouse/set_physics/blocking] (blocking)
+(2026-03-18T01:22:04.941133583) (2026-03-18T01:22:04.941136093) [Msg] SphericalCoordinates service on [/world/warehouse/set_spherical_coordinates] (async)
+(2026-03-18T01:22:04.941146856) (2026-03-18T01:22:04.941149109) [Msg] SphericalCoordinates service on [/world/warehouse/set_spherical_coordinates/blocking] (blocking)
+(2026-03-18T01:22:04.941203150) (2026-03-18T01:22:04.941205568) [Msg] Enable collision service on [/world/warehouse/enable_collision] (async)
+(2026-03-18T01:22:04.941215721) (2026-03-18T01:22:04.941217996) [Msg] Enable collision service on [/world/warehouse/enable_collision/blocking] (blocking)
+(2026-03-18T01:22:04.941274891) (2026-03-18T01:22:04.941277193) [Msg] Disable collision service on [/world/warehouse/disable_collision] (async)
+(2026-03-18T01:22:04.941287275) (2026-03-18T01:22:04.941289538) [Msg] Disable collision service on [/world/warehouse/disable_collision/blocking] (blocking)
+(2026-03-18T01:22:04.941376760) (2026-03-18T01:22:04.941379332) [Msg] Material service on [/world/warehouse/visual_config] (async)
+(2026-03-18T01:22:04.941389813) (2026-03-18T01:22:04.941392043) [Msg] Material service on [/world/warehouse/visual_config/blocking] (blocking)
+(2026-03-18T01:22:04.941458679) (2026-03-18T01:22:04.941461058) [Msg] Material service on [/world/warehouse/wheel_slip] (async)
+(2026-03-18T01:22:04.941476121) (2026-03-18T01:22:04.941478357) [Msg] Material service on [/world/warehouse/wheel_slip/blocking] (blocking)
+(2026-03-18T01:22:04.941507161) (2026-03-18T01:22:04.941509591) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::UserCommands] for entity [1]
+(2026-03-18T01:22:04.942406762) (2026-03-18T01:22:04.942412127) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::SceneBroadcaster] for entity [1]
+(2026-03-18T01:22:04.943342766) (2026-03-18T01:22:04.943350795) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::Contact] for entity [1]
+(2026-03-18T01:22:04.945429757) (2026-03-18T01:22:04.945439930) [Msg] Loaded level [default]
+(2026-03-18T01:22:04.947258127) (2026-03-18T01:22:04.947265546) [Msg] Serving world controls on [/world/warehouse/control], [/world/warehouse/control/state] and [/world/warehouse/playback/control]
+(2026-03-18T01:22:04.947398184) (2026-03-18T01:22:04.947402077) [Msg] Serving GUI information on [/world/warehouse/gui/info]
+(2026-03-18T01:22:04.947416636) (2026-03-18T01:22:04.947419380) [Msg] World [warehouse] initialized with [default_physics] physics profile.
+(2026-03-18T01:22:04.947609098) (2026-03-18T01:22:04.947614412) [Msg] Serving world SDF generation service on [/world/warehouse/generate_world_sdf]
+(2026-03-18T01:22:04.947764425) (2026-03-18T01:22:04.947767890) [Msg] Serving world names on [/gazebo/worlds]
+(2026-03-18T01:22:04.947816723) (2026-03-18T01:22:04.947819667) [Msg] Resource path add service on [/gazebo/resource_paths/add].
+(2026-03-18T01:22:04.947862871) (2026-03-18T01:22:04.947866211) [Msg] Resource path get service on [/gazebo/resource_paths/get].
+(2026-03-18T01:22:04.947911124) (2026-03-18T01:22:04.947914590) [Msg] Resource path resolve service on [/gazebo/resource_paths/resolve].
+(2026-03-18T01:22:04.948051691) (2026-03-18T01:22:04.948054889) [Msg] Resource paths published on [/gazebo/resource_paths].
+(2026-03-18T01:22:04.948128212) (2026-03-18T01:22:04.948131552) [Msg] Server control service on [/server_control].
+(2026-03-18T01:22:05.761320166) (2026-03-18T01:22:05.761333287) [Msg] Found no publishers on /stats, adding root stats topic
+(2026-03-18T01:22:05.768166471) (2026-03-18T01:22:05.768183532) [Msg] Found no publishers on /clock, adding root clock topic
+(2026-03-18T01:22:05.768823310) (2026-03-18T01:22:05.768835005) [Dbg] [SimulationRunner.cc:533] Creating PostUpdate worker threads: 3
+(2026-03-18T01:22:05.768892287) (2026-03-18T01:22:05.768897722) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (0)
+(2026-03-18T01:22:05.769094233) (2026-03-18T01:22:05.769098836) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (1)
+(2026-03-18T01:22:05.872169351) (2026-03-18T01:22:05.872182844) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::PosePublisher] for entity [132]
+(2026-03-18T01:22:05.872349066) (2026-03-18T01:22:05.872354296) [Dbg] [UserCommands.cc:1094] Created entity [132] named [standard_dock]
+(2026-03-18T01:22:06.63199143) (2026-03-18T01:22:06.63208231) [Wrn] [SdfEntityCreator.cc:933] Gazebo does not support Ogre material scripts. See https://gazebosim.org/api/sim/8/migrationsdf.html#:~:text=Materials for details.
+(2026-03-18T01:22:06.63233044) (2026-03-18T01:22:06.63235925) [Wrn] [SdfEntityCreator.cc:949] Using an internal gazebo.material to parse Gazebo/DarkGrey
+(2026-03-18T01:22:06.63344063) (2026-03-18T01:22:06.63346594) [Wrn] [SdfEntityCreator.cc:933] Gazebo does not support Ogre material scripts. See https://gazebosim.org/api/sim/8/migrationsdf.html#:~:text=Materials for details.
+(2026-03-18T01:22:06.63361248) (2026-03-18T01:22:06.63363500) [Wrn] [SdfEntityCreator.cc:949] Using an internal gazebo.material to parse Gazebo/DarkGrey
+(2026-03-18T01:22:06.63893619) (2026-03-18T01:22:06.63897396) [Wrn] [SdfEntityCreator.cc:933] Gazebo does not support Ogre material scripts. See https://gazebosim.org/api/sim/8/migrationsdf.html#:~:text=Materials for details.
+(2026-03-18T01:22:06.63911058) (2026-03-18T01:22:06.63913395) [Wrn] [SdfEntityCreator.cc:949] Using an internal gazebo.material to parse Gazebo/DarkGrey
+(2026-03-18T01:22:06.63979287) (2026-03-18T01:22:06.63981741) [Wrn] [SdfEntityCreator.cc:933] Gazebo does not support Ogre material scripts. See https://gazebosim.org/api/sim/8/migrationsdf.html#:~:text=Materials for details.
+(2026-03-18T01:22:06.63992893) (2026-03-18T01:22:06.63995176) [Wrn] [SdfEntityCreator.cc:949] Using an internal gazebo.material to parse Gazebo/DarkGrey
+(2026-03-18T01:22:10.166657618) (2026-03-18T01:22:10.167998425) [Dbg] [SystemManager.cc:80] Loaded system [gz_ros2_control::GazeboSimROS2ControlPlugin] for entity [148]
+(2026-03-18T01:22:10.173454189) (2026-03-18T01:22:10.173473074) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::PosePublisher] for entity [148]
+(2026-03-18T01:22:10.174139837) (2026-03-18T01:22:10.174147914) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::Contact] for entity [148]
+(2026-03-18T01:22:10.209978023) (2026-03-18T01:22:10.210011981) [Dbg] [Sensors.cc:697] Configuring Sensors system
+(2026-03-18T01:22:10.210231930) (2026-03-18T01:22:10.210243562) [Dbg] [Sensors.cc:557] SensorsPrivate::Run
+(2026-03-18T01:22:10.210816217) (2026-03-18T01:22:10.210849267) [Dbg] [Sensors.cc:532] SensorsPrivate::RenderThread started
+(2026-03-18T01:22:10.210997932) (2026-03-18T01:22:10.211011016) [Dbg] [Sensors.cc:337] Waiting for init
+(2026-03-18T01:22:10.214613414) (2026-03-18T01:22:10.214648449) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::Sensors] for entity [148]
+(2026-03-18T01:22:10.215472854) (2026-03-18T01:22:10.215523054) [Dbg] [UserCommands.cc:1094] Created entity [148] named [turtlebot4]
+(2026-03-18T01:22:10.253102394) (2026-03-18T01:22:10.253667036) [Msg] Contact system publishing on /bumper_contact
+(2026-03-18T01:22:10.266221784) (2026-03-18T01:22:10.266240338) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-18T01:22:10.266285127) (2026-03-18T01:22:10.266292429) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [warehouse_collision] couldn't be created
+(2026-03-18T01:22:10.297000539) (2026-03-18T01:22:10.297218459) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-18T01:22:10.297268486) (2026-03-18T01:22:10.297274287) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [collision] couldn't be created
+(2026-03-18T01:22:10.297616929) (2026-03-18T01:22:10.297627266) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-18T01:22:10.297649922) (2026-03-18T01:22:10.297656498) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [collision] couldn't be created
+(2026-03-18T01:22:10.299227755) (2026-03-18T01:22:10.299241155) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-18T01:22:10.299272315) (2026-03-18T01:22:10.299279058) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [collision] couldn't be created
+(2026-03-18T01:22:10.299448024) (2026-03-18T01:22:10.299457034) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-18T01:22:10.299490110) (2026-03-18T01:22:10.299504113) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [collision] couldn't be created
+(2026-03-18T01:22:10.299678042) (2026-03-18T01:22:10.299686612) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-18T01:22:10.299707263) (2026-03-18T01:22:10.299713581) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [collision] couldn't be created
+(2026-03-18T01:22:10.306954923) (2026-03-18T01:22:10.306983773) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-18T01:22:10.307030710) (2026-03-18T01:22:10.307037492) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [base_link_fixed_joint_lump__shell_collision_collision_1] couldn't be created
+(2026-03-18T01:22:10.307239661) (2026-03-18T01:22:10.307247098) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-18T01:22:10.307312750) (2026-03-18T01:22:10.307319880) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [bumper_collision] couldn't be created
+(2026-03-18T01:22:10.347268821) (2026-03-18T01:22:10.347310925) [Wrn] [OBJLoader.cc:91] Both `d` and `Tr` parameters defined for "Chair". Use the value of `d` for dissolve (line 8 in .mtl.)
+
+(2026-03-18T01:22:10.348955961) (2026-03-18T01:22:10.348981313) [Wrn] [OBJLoader.cc:91] Both `d` and `Tr` parameters defined for "CoffeeTable". Use the value of `d` for dissolve (line 8 in .mtl.)
+
+(2026-03-18T01:22:10.593912573) (2026-03-18T01:22:10.593922543) [Dbg] [SimulationFeatures.cc:90] Simulation timestep set to: 0.003
+(2026-03-18T01:22:10.643783716) (2026-03-18T01:22:10.643803636) [Msg] Serving scene information on [/world/warehouse/scene/info]
+(2026-03-18T01:22:10.644094443) (2026-03-18T01:22:10.644107510) [Msg] Serving graph information on [/world/warehouse/scene/graph]
+(2026-03-18T01:22:10.644436295) (2026-03-18T01:22:10.644444739) [Msg] Serving full state on [/world/warehouse/state]
+(2026-03-18T01:22:10.644604933) (2026-03-18T01:22:10.644612045) [Msg] Serving full state (async) on [/world/warehouse/state_async]
+(2026-03-18T01:22:10.644818574) (2026-03-18T01:22:10.644823051) [Msg] Publishing scene information on [/world/warehouse/scene/info]
+(2026-03-18T01:22:10.644963168) (2026-03-18T01:22:10.644968243) [Msg] Publishing entity deletions on [/world/warehouse/scene/deletion]
+(2026-03-18T01:22:10.645055278) (2026-03-18T01:22:10.645059468) [Msg] Publishing state changes on [/world/warehouse/state]
+(2026-03-18T01:22:10.645154495) (2026-03-18T01:22:10.645158702) [Msg] Publishing pose messages on [/world/warehouse/pose/info]
+(2026-03-18T01:22:10.645236132) (2026-03-18T01:22:10.645240412) [Msg] Publishing dynamic pose messages on [/world/warehouse/dynamic_pose/info]
+(2026-03-18T01:22:10.645778416) (2026-03-18T01:22:10.645782899) [Dbg] [EntityComponentManager.cc:1656] Updated state thread iterators: 12 threads processing around 23 entities each.
+(2026-03-18T01:22:10.646334018) (2026-03-18T01:22:10.646344373) [Wrn] [Component.hh:127] Trying to serialize component with data type [St10shared_ptrIN3sdf3v147ElementEE], which doesn't have `operator<<`. Component will not be serialized.
+((2026-03-18T01:22:10.652499583) (2026-03-18T01:22:10.652525274) 2026-03-18T01:22:10.652461268) (2026-03-18T01:22:10.652559075) [Dbg] [SimulationRunner.cc:560] [Dbg] [SimulationRunner.cc:560] [Dbg] [SimulationRunner.cc:560] Exiting postupdate worker thread (1)
+Exiting postupdate worker thread (0)
+(2026-03-18T01:22:10.653379139) (2026-03-18T01:22:10.653398349) [Dbg] [SimulationRunner.cc:533] Creating PostUpdate worker threads: 8
+(2026-03-18T01:22:10.653467608) (2026-03-18T01:22:10.653475981) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (0)
+(2026-03-18T01:22:10.653685652) (2026-03-18T01:22:10.653694929) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (1)
+(2026-03-18T01:22:10.653780865) (2026-03-18T01:22:10.653788619) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (2)
+(2026-03-18T01:22:10.653881536) (2026-03-18T01:22:10.653888602) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (3)
+(2026-03-18T01:22:10.653954612) (2026-03-18T01:22:10.653961861) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (4)
+(2026-03-18T01:22:10.654090095) (2026-03-18T01:22:10.654104442) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (5)
+(2026-03-18T01:22:10.654215424) (2026-03-18T01:22:10.654223692) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (6)
+(2026-03-18T01:22:10.657763131) (2026-03-18T01:22:10.657782822) [Dbg] [Sensors.cc:953] Initialization needed
+(2026-03-18T01:22:10.657848704) (2026-03-18T01:22:10.657857521) [Dbg] [Sensors.cc:349] Initializing render context
+(2026-03-18T01:22:10.658049998) (2026-03-18T01:22:10.658058384) [Msg] Loading plugin [gz-rendering-ogre]
+(2026-03-18T01:22:10.815799163) (2026-03-18T01:22:10.815818207) [Dbg] [RenderUtil.cc:2646] Create scene [scene]
+(2026-03-18T01:22:10.817190257) (2026-03-18T01:22:10.817204087) [Dbg] [Sensors.cc:391] Rendering Thread initialized
+(2026-03-18T01:22:10.817275576) (2026-03-18T01:22:10.817289279) [Dbg] [Sensors.cc:953] Initialization needed
+(2026-03-18T01:22:11.978691636) (2026-03-18T01:22:11.978700769) [Wrn] [ColladaLoader.cc:2395] Triangle input semantic: 'COLOR' is currently not supported
+(2026-03-18T01:22:12.59578418) (2026-03-18T01:22:12.59590310) [Wrn] [ColladaLoader.cc:2395] Triangle input semantic: 'COLOR' is currently not supported
+(2026-03-18T01:22:12.884366229) (2026-03-18T01:22:12.884378591) [Dbg] [RgbdCameraSensor.cc:210] RGB images for [turtlebot4::oakd_rgb_camera_frame::rgbd_camera] advertised on [world/warehouse/model/turtlebot4/link/oakd_rgb_camera_frame/sensor/rgbd_camera/image]
+(2026-03-18T01:22:12.884543633) (2026-03-18T01:22:12.884549464) [Dbg] [RgbdCameraSensor.cc:224] Depth images for [turtlebot4::oakd_rgb_camera_frame::rgbd_camera] advertised on [world/warehouse/model/turtlebot4/link/oakd_rgb_camera_frame/sensor/rgbd_camera/depth_image]
+(2026-03-18T01:22:12.884720081) (2026-03-18T01:22:12.884725944) [Dbg] [RgbdCameraSensor.cc:238] Points for [turtlebot4::oakd_rgb_camera_frame::rgbd_camera] advertised on [world/warehouse/model/turtlebot4/link/oakd_rgb_camera_frame/sensor/rgbd_camera/points]
+(2026-03-18T01:22:12.884883390) (2026-03-18T01:22:12.884889250) [Dbg] [CameraSensor.cc:695] Camera info for [turtlebot4::oakd_rgb_camera_frame::rgbd_camera] advertised on [world/warehouse/model/turtlebot4/link/oakd_rgb_camera_frame/sensor/rgbd_camera/camera_info]
+(2026-03-18T01:22:12.885938608) (2026-03-18T01:22:12.885945902) [Dbg] [Lidar.cc:139] Laser scans for [standard_dock::green_buoy_link::green_buoy] advertised on [world/warehouse/model/standard_dock/link/green_buoy_link/sensor/green_buoy/scan]
+(2026-03-18T01:22:12.886152466) (2026-03-18T01:22:12.886157903) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [standard_dock::green_buoy_link::green_buoy] advertised on [world/warehouse/model/standard_dock/link/green_buoy_link/sensor/green_buoy/scan/points]
+(2026-03-18T01:22:12.887513918) (2026-03-18T01:22:12.887528487) [Dbg] [Lidar.cc:139] Laser scans for [standard_dock::halo_link::halo] advertised on [world/warehouse/model/standard_dock/link/halo_link/sensor/halo/scan]
+(2026-03-18T01:22:12.887694323) (2026-03-18T01:22:12.887699634) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [standard_dock::halo_link::halo] advertised on [world/warehouse/model/standard_dock/link/halo_link/sensor/halo/scan/points]
+(2026-03-18T01:22:12.888196030) (2026-03-18T01:22:12.888205572) [Dbg] [Lidar.cc:139] Laser scans for [standard_dock::red_buoy_link::red_buoy] advertised on [world/warehouse/model/standard_dock/link/red_buoy_link/sensor/red_buoy/scan]
+(2026-03-18T01:22:12.888332440) (2026-03-18T01:22:12.888339857) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [standard_dock::red_buoy_link::red_buoy] advertised on [world/warehouse/model/standard_dock/link/red_buoy_link/sensor/red_buoy/scan/points]
+(2026-03-18T01:22:12.888812697) (2026-03-18T01:22:12.888819257) [Dbg] [Lidar.cc:139] Laser scans for [standard_dock::yellow_buoy_link::yellow_buoy] advertised on [world/warehouse/model/standard_dock/link/yellow_buoy_link/sensor/yellow_buoy/scan]
+(2026-03-18T01:22:12.888943418) (2026-03-18T01:22:12.888950134) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [standard_dock::yellow_buoy_link::yellow_buoy] advertised on [world/warehouse/model/standard_dock/link/yellow_buoy_link/sensor/yellow_buoy/scan/points]
+(2026-03-18T01:22:12.889437338) (2026-03-18T01:22:12.889445124) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::base_link::cliff_front_left] advertised on [world/warehouse/model/turtlebot4/link/base_link/sensor/cliff_front_left/scan]
+(2026-03-18T01:22:12.889569446) (2026-03-18T01:22:12.889576337) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::base_link::cliff_front_left] advertised on [world/warehouse/model/turtlebot4/link/base_link/sensor/cliff_front_left/scan/points]
+(2026-03-18T01:22:12.890811033) (2026-03-18T01:22:12.890816971) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::base_link::cliff_front_right] advertised on [world/warehouse/model/turtlebot4/link/base_link/sensor/cliff_front_right/scan]
+(2026-03-18T01:22:12.891180069) (2026-03-18T01:22:12.891184946) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::base_link::cliff_front_right] advertised on [world/warehouse/model/turtlebot4/link/base_link/sensor/cliff_front_right/scan/points]
+(2026-03-18T01:22:12.891807541) (2026-03-18T01:22:12.891813550) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::base_link::cliff_side_left] advertised on [world/warehouse/model/turtlebot4/link/base_link/sensor/cliff_side_left/scan]
+(2026-03-18T01:22:12.892028475) (2026-03-18T01:22:12.892033768) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::base_link::cliff_side_left] advertised on [world/warehouse/model/turtlebot4/link/base_link/sensor/cliff_side_left/scan/points]
+(2026-03-18T01:22:12.892588394) (2026-03-18T01:22:12.892596015) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::base_link::cliff_side_right] advertised on [world/warehouse/model/turtlebot4/link/base_link/sensor/cliff_side_right/scan]
+(2026-03-18T01:22:12.892762814) (2026-03-18T01:22:12.892770528) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::base_link::cliff_side_right] advertised on [world/warehouse/model/turtlebot4/link/base_link/sensor/cliff_side_right/scan/points]
+(2026-03-18T01:22:12.893397279) (2026-03-18T01:22:12.893407665) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::ir_intensity_front_center_left::ir_intensity_front_center_left] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_front_center_left/sensor/ir_intensity_front_center_left/scan]
+(2026-03-18T01:22:12.893620241) (2026-03-18T01:22:12.893627059) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::ir_intensity_front_center_left::ir_intensity_front_center_left] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_front_center_left/sensor/ir_intensity_front_center_left/scan/points]
+(2026-03-18T01:22:12.894386578) (2026-03-18T01:22:12.894395871) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::ir_intensity_front_center_right::ir_intensity_front_center_right] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_front_center_right/sensor/ir_intensity_front_center_right/scan]
+(2026-03-18T01:22:12.896254708) (2026-03-18T01:22:12.896265665) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::ir_intensity_front_center_right::ir_intensity_front_center_right] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_front_center_right/sensor/ir_intensity_front_center_right/scan/points]
+(2026-03-18T01:22:12.899539732) (2026-03-18T01:22:12.899555304) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::ir_intensity_front_left::ir_intensity_front_left] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_front_left/sensor/ir_intensity_front_left/scan]
+(2026-03-18T01:22:12.900277613) (2026-03-18T01:22:12.900290510) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::ir_intensity_front_left::ir_intensity_front_left] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_front_left/sensor/ir_intensity_front_left/scan/points]
+(2026-03-18T01:22:12.902249816) (2026-03-18T01:22:12.902265542) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::ir_intensity_front_right::ir_intensity_front_right] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_front_right/sensor/ir_intensity_front_right/scan]
+(2026-03-18T01:22:12.902450636) (2026-03-18T01:22:12.902455889) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::ir_intensity_front_right::ir_intensity_front_right] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_front_right/sensor/ir_intensity_front_right/scan/points]
+(2026-03-18T01:22:12.905519288) (2026-03-18T01:22:12.905546509) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::ir_intensity_left::ir_intensity_left] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_left/sensor/ir_intensity_left/scan]
+(2026-03-18T01:22:12.906262988) (2026-03-18T01:22:12.906275752) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::ir_intensity_left::ir_intensity_left] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_left/sensor/ir_intensity_left/scan/points]
+(2026-03-18T01:22:12.908978485) (2026-03-18T01:22:12.908991191) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::ir_intensity_right::ir_intensity_right] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_right/sensor/ir_intensity_right/scan]
+(2026-03-18T01:22:12.909211332) (2026-03-18T01:22:12.909217748) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::ir_intensity_right::ir_intensity_right] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_right/sensor/ir_intensity_right/scan/points]
+(2026-03-18T01:22:12.911560338) (2026-03-18T01:22:12.911581437) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::ir_intensity_side_left::ir_intensity_side_left] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_side_left/sensor/ir_intensity_side_left/scan]
+(2026-03-18T01:22:12.911911044) (2026-03-18T01:22:12.911916320) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::ir_intensity_side_left::ir_intensity_side_left] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_side_left/sensor/ir_intensity_side_left/scan/points]
+(2026-03-18T01:22:12.915973604) (2026-03-18T01:22:12.915999072) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::rplidar_link::rplidar] advertised on [world/warehouse/model/turtlebot4/link/rplidar_link/sensor/rplidar/scan]
+(2026-03-18T01:22:12.918805341) (2026-03-18T01:22:12.918815960) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::rplidar_link::rplidar] advertised on [world/warehouse/model/turtlebot4/link/rplidar_link/sensor/rplidar/scan/points]
+(2026-03-18T01:22:12.920980125) (2026-03-18T01:22:12.920994578) [Wrn] [OgreGpuRays.cc:292] Horizontal FOV for GPU rays is capped at 180 degrees.

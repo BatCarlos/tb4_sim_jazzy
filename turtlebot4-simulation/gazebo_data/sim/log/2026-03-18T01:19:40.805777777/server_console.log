@@ -1,0 +1,73 @@
+(2026-03-18T01:19:40.918967164) (2026-03-18T01:19:40.918977131) [Msg] Gazebo Sim Server v8.10.0
+(2026-03-18T01:19:40.920430149) (2026-03-18T01:19:40.920440991) [Msg] Loading SDF world file[/turtle_ws/install/turtlebot4_gz_bringup/share/turtlebot4_gz_bringup/worlds/warehouse.sdf].
+(2026-03-18T01:19:41.532751573) (2026-03-18T01:19:41.532765336) [Msg] Serving entity system service on [/entity/system/add]
+(2026-03-18T01:19:41.572351925) (2026-03-18T01:19:41.572359841) [Dbg] [Physics.cc:899] Loaded [gz::physics::dartsim::Plugin] from library [/opt/ros/jazzy/opt/gz_physics_vendor/lib/gz-physics-7/engine-plugins/libgz-physics-dartsim-plugin.so]
+(2026-03-18T01:19:41.572403310) (2026-03-18T01:19:41.572405461) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::Physics] for entity [1]
+(2026-03-18T01:19:41.574268656) (2026-03-18T01:19:41.574273288) [Msg] Create service on [/world/warehouse/create_multiple] (async)
+(2026-03-18T01:19:41.574287344) (2026-03-18T01:19:41.574289470) [Msg] Create service on [/world/warehouse/create_multiple/blocking] (blocking)
+(2026-03-18T01:19:41.574383258) (2026-03-18T01:19:41.574385559) [Msg] Remove service on [/world/warehouse/remove] (async)
+(2026-03-18T01:19:41.574395308) (2026-03-18T01:19:41.574397890) [Msg] Remove service on [/world/warehouse/remove/blocking] (blocking)
+(2026-03-18T01:19:41.574466976) (2026-03-18T01:19:41.574469225) [Msg] Pose service on [/world/warehouse/set_pose] (async)
+(2026-03-18T01:19:41.574478405) (2026-03-18T01:19:41.574498798) [Msg] Pose service on [/world/warehouse/set_pose/blocking] (blocking)
+(2026-03-18T01:19:41.574585752) (2026-03-18T01:19:41.574588643) [Msg] Pose service on [/world/warehouse/set_pose_vector] (async)
+(2026-03-18T01:19:41.574598689) (2026-03-18T01:19:41.574600896) [Msg] Pose service on [/world/warehouse/set_pose_vector/blocking] (blocking)
+(2026-03-18T01:19:41.574701857) (2026-03-18T01:19:41.574704221) [Msg] Light configuration service on [/world/warehouse/light_config] (async)
+(2026-03-18T01:19:41.574713739) (2026-03-18T01:19:41.574715795) [Msg] Light configuration service on [/world/warehouse/light_config/blocking] (blocking)
+(2026-03-18T01:19:41.574895782) (2026-03-18T01:19:41.574898794) [Msg] Physics service on [/world/warehouse/set_physics] (async)
+(2026-03-18T01:19:41.574918000) (2026-03-18T01:19:41.574920414) [Msg] Physics service on [/world/warehouse/set_physics/blocking] (blocking)
+(2026-03-18T01:19:41.575006616) (2026-03-18T01:19:41.575009016) [Msg] SphericalCoordinates service on [/world/warehouse/set_spherical_coordinates] (async)
+(2026-03-18T01:19:41.575018721) (2026-03-18T01:19:41.575020749) [Msg] SphericalCoordinates service on [/world/warehouse/set_spherical_coordinates/blocking] (blocking)
+(2026-03-18T01:19:41.575078307) (2026-03-18T01:19:41.575080542) [Msg] Enable collision service on [/world/warehouse/enable_collision] (async)
+(2026-03-18T01:19:41.575089608) (2026-03-18T01:19:41.575091639) [Msg] Enable collision service on [/world/warehouse/enable_collision/blocking] (blocking)
+(2026-03-18T01:19:41.575148976) (2026-03-18T01:19:41.575151184) [Msg] Disable collision service on [/world/warehouse/disable_collision] (async)
+(2026-03-18T01:19:41.575160368) (2026-03-18T01:19:41.575162381) [Msg] Disable collision service on [/world/warehouse/disable_collision/blocking] (blocking)
+(2026-03-18T01:19:41.575251878) (2026-03-18T01:19:41.575254126) [Msg] Material service on [/world/warehouse/visual_config] (async)
+(2026-03-18T01:19:41.575263598) (2026-03-18T01:19:41.575265625) [Msg] Material service on [/world/warehouse/visual_config/blocking] (blocking)
+(2026-03-18T01:19:41.575333908) (2026-03-18T01:19:41.575337905) [Msg] Material service on [/world/warehouse/wheel_slip] (async)
+(2026-03-18T01:19:41.575352900) (2026-03-18T01:19:41.575355127) [Msg] Material service on [/world/warehouse/wheel_slip/blocking] (blocking)
+(2026-03-18T01:19:41.575371892) (2026-03-18T01:19:41.575374447) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::UserCommands] for entity [1]
+(2026-03-18T01:19:41.576169673) (2026-03-18T01:19:41.576174191) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::SceneBroadcaster] for entity [1]
+(2026-03-18T01:19:41.576784543) (2026-03-18T01:19:41.576788924) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::Contact] for entity [1]
+(2026-03-18T01:19:41.578281093) (2026-03-18T01:19:41.578286317) [Msg] Loaded level [default]
+(2026-03-18T01:19:41.579080042) (2026-03-18T01:19:41.579084287) [Msg] Serving world controls on [/world/warehouse/control], [/world/warehouse/control/state] and [/world/warehouse/playback/control]
+(2026-03-18T01:19:41.579152856) (2026-03-18T01:19:41.579155707) [Msg] Serving GUI information on [/world/warehouse/gui/info]
+(2026-03-18T01:19:41.579168615) (2026-03-18T01:19:41.579171286) [Msg] World [warehouse] initialized with [default_physics] physics profile.
+(2026-03-18T01:19:41.579251267) (2026-03-18T01:19:41.579254116) [Msg] Serving world SDF generation service on [/world/warehouse/generate_world_sdf]
+(2026-03-18T01:19:41.579316827) (2026-03-18T01:19:41.579319431) [Msg] Serving world names on [/gazebo/worlds]
+(2026-03-18T01:19:41.579357665) (2026-03-18T01:19:41.579360106) [Msg] Resource path add service on [/gazebo/resource_paths/add].
+(2026-03-18T01:19:41.579394187) (2026-03-18T01:19:41.579397051) [Msg] Resource path get service on [/gazebo/resource_paths/get].
+(2026-03-18T01:19:41.579434552) (2026-03-18T01:19:41.579436973) [Msg] Resource path resolve service on [/gazebo/resource_paths/resolve].
+(2026-03-18T01:19:41.579509701) (2026-03-18T01:19:41.579513396) [Msg] Resource paths published on [/gazebo/resource_paths].
+(2026-03-18T01:19:41.579577431) (2026-03-18T01:19:41.579580114) [Msg] Server control service on [/server_control].
+(2026-03-18T01:19:42.813197976) (2026-03-18T01:19:42.813249579) [Msg] Found no publishers on /stats, adding root stats topic
+(2026-03-18T01:19:42.814942238) (2026-03-18T01:19:42.814979441) [Msg] Found no publishers on /clock, adding root clock topic
+(2026-03-18T01:19:42.815822778) (2026-03-18T01:19:42.815854904) [Dbg] [SimulationRunner.cc:533] Creating PostUpdate worker threads: 3
+(2026-03-18T01:19:42.815981950) (2026-03-18T01:19:42.816010218) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (0)
+(2026-03-18T01:19:42.825753796) (2026-03-18T01:19:42.825797683) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (1)
+(2026-03-18T01:19:42.839548092) (2026-03-18T01:19:42.839614637) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-18T01:19:42.839730616) (2026-03-18T01:19:42.839761006) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [warehouse_collision] couldn't be created
+(2026-03-18T01:19:42.863289289) (2026-03-18T01:19:42.863308155) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-18T01:19:42.863340269) (2026-03-18T01:19:42.863347577) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [collision] couldn't be created
+(2026-03-18T01:19:42.863611667) (2026-03-18T01:19:42.863622667) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-18T01:19:42.863647115) (2026-03-18T01:19:42.863653632) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [collision] couldn't be created
+(2026-03-18T01:19:42.865019183) (2026-03-18T01:19:42.865041916) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-18T01:19:42.865074159) (2026-03-18T01:19:42.865081221) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [collision] couldn't be created
+(2026-03-18T01:19:42.865249802) (2026-03-18T01:19:42.865259556) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-18T01:19:42.865304106) (2026-03-18T01:19:42.865310634) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [collision] couldn't be created
+(2026-03-18T01:19:42.865584160) (2026-03-18T01:19:42.865594061) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-18T01:19:42.865615168) (2026-03-18T01:19:42.865621825) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [collision] couldn't be created
+(2026-03-18T01:19:42.873457634) (2026-03-18T01:19:42.873469842) [Wrn] [OBJLoader.cc:91] Both `d` and `Tr` parameters defined for "Chair". Use the value of `d` for dissolve (line 8 in .mtl.)
+
+(2026-03-18T01:19:42.874182825) (2026-03-18T01:19:42.874193237) [Wrn] [OBJLoader.cc:91] Both `d` and `Tr` parameters defined for "CoffeeTable". Use the value of `d` for dissolve (line 8 in .mtl.)
+
+(2026-03-18T01:19:42.875082229) (2026-03-18T01:19:42.875094043) [Dbg] [SimulationFeatures.cc:90] Simulation timestep set to: 0.003
+(2026-03-18T01:19:42.884079177) (2026-03-18T01:19:42.884121265) [Msg] Serving scene information on [/world/warehouse/scene/info]
+(2026-03-18T01:19:42.884922835) (2026-03-18T01:19:42.884933965) [Msg] Serving graph information on [/world/warehouse/scene/graph]
+(2026-03-18T01:19:42.885997494) (2026-03-18T01:19:42.886013884) [Msg] Serving full state on [/world/warehouse/state]
+(2026-03-18T01:19:42.886450684) (2026-03-18T01:19:42.886462101) [Msg] Serving full state (async) on [/world/warehouse/state_async]
+(2026-03-18T01:19:42.887056218) (2026-03-18T01:19:42.887063948) [Msg] Publishing scene information on [/world/warehouse/scene/info]
+(2026-03-18T01:19:42.887570698) (2026-03-18T01:19:42.887578249) [Msg] Publishing entity deletions on [/world/warehouse/scene/deletion]
+(2026-03-18T01:19:42.888005339) (2026-03-18T01:19:42.888012984) [Msg] Publishing state changes on [/world/warehouse/state]
+(2026-03-18T01:19:42.888147229) (2026-03-18T01:19:42.888154565) [Msg] Publishing pose messages on [/world/warehouse/pose/info]
+(2026-03-18T01:19:42.888275729) (2026-03-18T01:19:42.888282851) [Msg] Publishing dynamic pose messages on [/world/warehouse/dynamic_pose/info]
+(2026-03-18T01:19:42.888764162) (2026-03-18T01:19:42.888772783) [Dbg] [EntityComponentManager.cc:1656] Updated state thread iterators: 12 threads processing around 11 entities each.

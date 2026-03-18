@@ -1,0 +1,308 @@
+(2026-03-16T17:14:01.478246773) (2026-03-16T17:14:01.478255868) [Msg] Gazebo Sim Server v8.10.0
+(2026-03-16T17:14:01.480760325) (2026-03-16T17:14:01.480767287) [Msg] Loading SDF world file[/turtle_ws/install/turtlebot4_gz_bringup/share/turtlebot4_gz_bringup/worlds/warehouse.sdf].
+(2026-03-16T17:14:01.536338819) (2026-03-16T17:14:01.536345954) [Wrn] [LocalCache.cc:104] Server directory does not exist [/root/.gz/fuel/fuel.gazebosim.org]
+(2026-03-16T17:14:01.536429283) (2026-03-16T17:14:01.536431838) [Msg] Downloading model [fuel.gazebosim.org/openrobotics/models/warehouse]
+(2026-03-16T17:14:02.207595795) (2026-03-16T17:14:02.207612147) [Dbg] [FuelClient.cc:1968] Downloading from a referral link [https://gz-fuel-resources-production.s3.amazonaws.com/OpenRobotics/314ff171-6a4e-4521-81ad-99383d70084c/.zips/5.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAS5OHIRKDBY6VUUFF%2F20260316%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260316T171402Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4aced260ffae74d091238d4c1f35285f7b41216450766b862cabfb188bf0a9c0]
+(2026-03-16T17:14:11.658528322) (2026-03-16T17:14:11.658534641) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/warehouse/5/meshes/Asphalt010_1K_Color.jpg]
+(2026-03-16T17:14:11.658629863) (2026-03-16T17:14:11.658632834) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/warehouse/5/meshes/Rough_Square_Concrete_Block.jpg]
+(2026-03-16T17:14:11.658706576) (2026-03-16T17:14:11.658709224) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/warehouse/5/meshes/Tape001_1K_Color.png]
+(2026-03-16T17:14:11.659978251) (2026-03-16T17:14:11.659981674) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/warehouse/5/meshes/Terrazzo005_1K_Color.jpg]
+(2026-03-16T17:14:11.660046408) (2026-03-16T17:14:11.660049197) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/warehouse/5/meshes/ground.png]
+(2026-03-16T17:14:11.660749552) (2026-03-16T17:14:11.660753159) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/warehouse/5/meshes/warehouse.dae]
+(2026-03-16T17:14:11.661171601) (2026-03-16T17:14:11.661176523) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/warehouse/5/meshes/warehouse_colision.stl]
+(2026-03-16T17:14:11.661220559) (2026-03-16T17:14:11.661224609) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/warehouse/5/model.config]
+(2026-03-16T17:14:11.661265432) (2026-03-16T17:14:11.661269450) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/warehouse/5/model.sdf]
+(2026-03-16T17:14:11.662113102) (2026-03-16T17:14:11.662115904) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/warehouse/5/thumbnails/1.png]
+(2026-03-16T17:14:11.662810950) (2026-03-16T17:14:11.662813667) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/warehouse/5/thumbnails/2.png]
+(2026-03-16T17:14:11.669321120) (2026-03-16T17:14:11.669332198) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/warehouse/5/thumbnails/3.png]
+(2026-03-16T17:14:11.670477839) (2026-03-16T17:14:11.670486228) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/warehouse/5/thumbnails/4.png]
+(2026-03-16T17:14:11.722048131) (2026-03-16T17:14:11.722053852) [Msg] Downloading model [fuel.gazebosim.org/movai/models/shelf_big]
+(2026-03-16T17:14:12.364847946) (2026-03-16T17:14:12.364871171) [Dbg] [FuelClient.cc:1968] Downloading from a referral link [https://gz-fuel-resources-production.s3.amazonaws.com/MovAi/8b8f5b9c-dd04-4ab7-a482-ded293bb42e0/.zips/2.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAS5OHIRKDBY6VUUFF%2F20260316%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260316T171412Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7017149be216b37c8c1b86c3c5790f293e51d80ca110e0534ba71cdd08fcf0dd]
+(2026-03-16T17:14:13.645765320) (2026-03-16T17:14:13.645771568) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/movai/models/shelf_big/2/meshes/Box_paper_04_1_Base_Color.png]
+(2026-03-16T17:14:13.646388052) (2026-03-16T17:14:13.646390749) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/movai/models/shelf_big/2/meshes/shelf_big_movai.dae]
+(2026-03-16T17:14:13.646425410) (2026-03-16T17:14:13.646427271) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/movai/models/shelf_big/2/model.config]
+(2026-03-16T17:14:13.646455867) (2026-03-16T17:14:13.646457696) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/movai/models/shelf_big/2/model.sdf]
+(2026-03-16T17:14:13.646868092) (2026-03-16T17:14:13.646869951) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/movai/models/shelf_big/2/thumbnails/1.png]
+(2026-03-16T17:14:13.684299166) (2026-03-16T17:14:13.684304448) [Msg] Downloading model [fuel.gazebosim.org/movai/models/shelf]
+(2026-03-16T17:14:14.274585583) (2026-03-16T17:14:14.274601985) [Dbg] [FuelClient.cc:1968] Downloading from a referral link [https://gz-fuel-resources-production.s3.amazonaws.com/MovAi/0c61430d-fe6a-45a6-beb9-bac11916ab0d/.zips/1.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAS5OHIRKDBY6VUUFF%2F20260316%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260316T171414Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=bd39ab5928ba388582bef42a8be0a70c3e5cb6d2b6c2c2ae2c3b5f1de27e40c3]
+(2026-03-16T17:14:15.900572109) (2026-03-16T17:14:15.900583116) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/movai/models/shelf/1/meshes/Box_paper_04_1_Base_Color.png]
+(2026-03-16T17:14:15.902311150) (2026-03-16T17:14:15.902323053) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/movai/models/shelf/1/meshes/shelf_big_movai.dae]
+(2026-03-16T17:14:15.902438857) (2026-03-16T17:14:15.902449951) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/movai/models/shelf/1/model.config]
+(2026-03-16T17:14:15.902571936) (2026-03-16T17:14:15.902581562) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/movai/models/shelf/1/model.sdf]
+(2026-03-16T17:14:15.903487792) (2026-03-16T17:14:15.903491711) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/movai/models/shelf/1/thumbnails/1.png]
+(2026-03-16T17:14:16.45338820) (2026-03-16T17:14:16.45345021) [Msg] Downloading model [fuel.gazebosim.org/openrobotics/models/jersey barrier]
+(2026-03-16T17:14:16.641813106) (2026-03-16T17:14:16.641826166) [Dbg] [FuelClient.cc:1968] Downloading from a referral link [https://gz-fuel-resources-production.s3.amazonaws.com/OpenRobotics/e75908fc-41d0-496f-9fcd-2b40dd337204/.zips/6.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAS5OHIRKDBY6VUUFF%2F20260316%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260316T171416Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3ac07f9a47881dbd0b8517f9319497f3d21890c12f1c1e98045aac42c8ca02a1]
+(2026-03-16T17:14:17.335078774) (2026-03-16T17:14:17.335089910) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/jersey barrier/6/materials/textures/jersey_barrier.jpg]
+(2026-03-16T17:14:17.335374176) (2026-03-16T17:14:17.335381216) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/jersey barrier/6/materials/textures/jersey_barrier_diffuse.jpg]
+(2026-03-16T17:14:17.335473147) (2026-03-16T17:14:17.335479639) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/jersey barrier/6/materials/textures/jersey_barrier_spec.jpg]
+(2026-03-16T17:14:17.335989959) (2026-03-16T17:14:17.335998030) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/jersey barrier/6/meshes/jersey_barrier.dae]
+(2026-03-16T17:14:17.336067649) (2026-03-16T17:14:17.336074714) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/jersey barrier/6/model.config]
+(2026-03-16T17:14:17.336152024) (2026-03-16T17:14:17.336156603) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/jersey barrier/6/model.sdf]
+(2026-03-16T17:14:17.336431800) (2026-03-16T17:14:17.336436420) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/jersey barrier/6/thumbnails/1.jpg]
+(2026-03-16T17:14:17.336651385) (2026-03-16T17:14:17.336655867) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/jersey barrier/6/thumbnails/2.jpg]
+(2026-03-16T17:14:17.336795956) (2026-03-16T17:14:17.336800299) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/jersey barrier/6/thumbnails/3.jpg]
+(2026-03-16T17:14:17.337058281) (2026-03-16T17:14:17.337062879) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/jersey barrier/6/thumbnails/4.jpg]
+(2026-03-16T17:14:17.337235114) (2026-03-16T17:14:17.337243194) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/jersey barrier/6/thumbnails/5.jpg]
+(2026-03-16T17:14:17.413041217) (2026-03-16T17:14:17.413045673) [Msg] Downloading model [fuel.gazebosim.org/openrobotics/models/chair]
+(2026-03-16T17:14:17.999673709) (2026-03-16T17:14:17.999706197) [Dbg] [FuelClient.cc:1968] Downloading from a referral link [https://gz-fuel-resources-production.s3.amazonaws.com/OpenRobotics/6c26e61f-ac69-46b5-b4b2-422c8f7b0ad3/.zips/3.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAS5OHIRKDBY6VUUFF%2F20260316%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260316T171417Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3f04f7b8c91c584460b50cdd947d1d807baa4dd42141d3eb1098f6b8c2547940]
+(2026-03-16T17:14:19.943318878) (2026-03-16T17:14:19.943329852) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/chair/3/meshes/Chair.mtl]
+(2026-03-16T17:14:19.943626438) (2026-03-16T17:14:19.943632928) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/chair/3/meshes/Chair.obj]
+(2026-03-16T17:14:19.944416743) (2026-03-16T17:14:19.944422937) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/chair/3/meshes/Chair.png]
+(2026-03-16T17:14:19.948100780) (2026-03-16T17:14:19.948105628) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/chair/3/meshes/Chair_Diffuse.png]
+(2026-03-16T17:14:19.949321004) (2026-03-16T17:14:19.949323981) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/chair/3/meshes/Chair_Normal.png]
+(2026-03-16T17:14:19.949922927) (2026-03-16T17:14:19.949928319) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/chair/3/meshes/Chair_SpecGloss.png]
+(2026-03-16T17:14:19.949957899) (2026-03-16T17:14:19.949959877) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/chair/3/model.config]
+(2026-03-16T17:14:19.949987424) (2026-03-16T17:14:19.949989436) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/chair/3/model.sdf]
+(2026-03-16T17:14:19.950427327) (2026-03-16T17:14:19.950429190) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/chair/3/thumbnails/1.png]
+(2026-03-16T17:14:19.950744243) (2026-03-16T17:14:19.950746016) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/chair/3/thumbnails/2.png]
+(2026-03-16T17:14:19.951102448) (2026-03-16T17:14:19.951104156) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/chair/3/thumbnails/3.png]
+(2026-03-16T17:14:19.951350859) (2026-03-16T17:14:19.951352522) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/chair/3/thumbnails/4.png]
+(2026-03-16T17:14:19.951666115) (2026-03-16T17:14:19.951667618) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/chair/3/thumbnails/5.png]
+(2026-03-16T17:14:19.951726253) (2026-03-16T17:14:19.951729098) [Dbg] [LocalCache.cc:619] Model [chair] loading resource from another model, named [Chair]. On Blueprint (gz-fuel-tools 3) and Citadel (gz-fuel-tools 4), [Chair] is ignored. From Dome (gz-fuel-tools 5), [chair] will be used. If [Chair] is not a model belonging to owner [openrobotics], fix your SDF file!
+(2026-03-16T17:14:19.951761740) (2026-03-16T17:14:19.951763346) [Dbg] [LocalCache.cc:619] Model [chair] loading resource from another model, named [Chair]. On Blueprint (gz-fuel-tools 3) and Citadel (gz-fuel-tools 4), [Chair] is ignored. From Dome (gz-fuel-tools 5), [chair] will be used. If [Chair] is not a model belonging to owner [openrobotics], fix your SDF file!
+(2026-03-16T17:14:19.979410174) (2026-03-16T17:14:19.979415017) [Msg] Downloading model [fuel.gazebosim.org/openrobotics/models/foldable_chair]
+(2026-03-16T17:14:20.580981095) (2026-03-16T17:14:20.580989896) [Dbg] [FuelClient.cc:1968] Downloading from a referral link [https://gz-fuel-resources-production.s3.amazonaws.com/OpenRobotics/6d3e4cf8-4f92-4b93-8990-e2c6a53d9d9a/.zips/3.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAS5OHIRKDBY6VUUFF%2F20260316%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260316T171420Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6fba10e77a85dc9b197093dcedde64231fd233ce216bc2f893611cb4c9c8019e]
+(2026-03-16T17:14:23.116091166) (2026-03-16T17:14:23.116102013) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/foldable_chair/3/mesh/foldable_chair.dae]
+(2026-03-16T17:14:23.131597846) (2026-03-16T17:14:23.131605201) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/foldable_chair/3/mesh/foldable_chair.png]
+(2026-03-16T17:14:23.131710355) (2026-03-16T17:14:23.131712165) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/foldable_chair/3/model.config]
+(2026-03-16T17:14:23.131742220) (2026-03-16T17:14:23.131743933) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/foldable_chair/3/model.sdf]
+(2026-03-16T17:14:23.132130509) (2026-03-16T17:14:23.132132513) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/foldable_chair/3/thumbnails/1.png]
+(2026-03-16T17:14:23.132441393) (2026-03-16T17:14:23.132443269) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/foldable_chair/3/thumbnails/2.png]
+(2026-03-16T17:14:23.132737914) (2026-03-16T17:14:23.132739654) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/foldable_chair/3/thumbnails/3.png]
+(2026-03-16T17:14:23.133119111) (2026-03-16T17:14:23.133120855) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/foldable_chair/3/thumbnails/4.png]
+(2026-03-16T17:14:23.133415051) (2026-03-16T17:14:23.133416747) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/foldable_chair/3/thumbnails/5.png]
+(2026-03-16T17:14:23.159685952) (2026-03-16T17:14:23.159694349) [Msg] Downloading model [fuel.gazebosim.org/openrobotics/models/coffeetable]
+(2026-03-16T17:14:23.788047452) (2026-03-16T17:14:23.788052839) [Dbg] [FuelClient.cc:1968] Downloading from a referral link [https://gz-fuel-resources-production.s3.amazonaws.com/OpenRobotics/86ca3dfe-8e40-44e5-b881-78377cc224dd/.zips/2.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAS5OHIRKDBY6VUUFF%2F20260316%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260316T171423Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e27d748efb255d2022e58a0fcb04a2ba6e0b40ecc16a0ba657da633316e3c0d7]
+(2026-03-16T17:14:24.704033931) (2026-03-16T17:14:24.704053656) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/coffeetable/2/meshes/CoffeeTable.mtl]
+(2026-03-16T17:14:24.704413891) (2026-03-16T17:14:24.704429142) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/coffeetable/2/meshes/CoffeeTable.obj]
+(2026-03-16T17:14:24.704696082) (2026-03-16T17:14:24.704721730) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/coffeetable/2/meshes/CoffeeTable_Diffuse.png]
+(2026-03-16T17:14:24.705399342) (2026-03-16T17:14:24.705414771) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/coffeetable/2/meshes/CoffeeTable_Normal.png]
+(2026-03-16T17:14:24.705846361) (2026-03-16T17:14:24.705855094) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/coffeetable/2/meshes/CoffeeTable_SpecGloss.png]
+(2026-03-16T17:14:24.705986696) (2026-03-16T17:14:24.705994298) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/coffeetable/2/model.config]
+(2026-03-16T17:14:24.706087789) (2026-03-16T17:14:24.706094914) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/coffeetable/2/model.sdf]
+(2026-03-16T17:14:24.706639798) (2026-03-16T17:14:24.706648285) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/coffeetable/2/thumbnails/1.png]
+(2026-03-16T17:14:24.707199738) (2026-03-16T17:14:24.707209963) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/coffeetable/2/thumbnails/2.png]
+(2026-03-16T17:14:24.707438642) (2026-03-16T17:14:24.707444756) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/coffeetable/2/thumbnails/3.png]
+(2026-03-16T17:14:24.707625422) (2026-03-16T17:14:24.707631499) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/coffeetable/2/thumbnails/4.png]
+(2026-03-16T17:14:24.707803568) (2026-03-16T17:14:24.707807432) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/coffeetable/2/thumbnails/5.png]
+(2026-03-16T17:14:24.707939859) (2026-03-16T17:14:24.707946070) [Dbg] [LocalCache.cc:619] Model [coffeetable] loading resource from another model, named [CoffeeTable]. On Blueprint (gz-fuel-tools 3) and Citadel (gz-fuel-tools 4), [CoffeeTable] is ignored. From Dome (gz-fuel-tools 5), [coffeetable] will be used. If [CoffeeTable] is not a model belonging to owner [openrobotics], fix your SDF file!
+(2026-03-16T17:14:24.708021299) (2026-03-16T17:14:24.708025219) [Dbg] [LocalCache.cc:619] Model [coffeetable] loading resource from another model, named [CoffeeTable]. On Blueprint (gz-fuel-tools 3) and Citadel (gz-fuel-tools 4), [CoffeeTable] is ignored. From Dome (gz-fuel-tools 5), [coffeetable] will be used. If [CoffeeTable] is not a model belonging to owner [openrobotics], fix your SDF file!
+(2026-03-16T17:14:24.723321574) (2026-03-16T17:14:24.723326806) [Msg] Downloading model [fuel.gazebosim.org/openrobotics/models/femalevisitorsit]
+(2026-03-16T17:14:25.333426982) (2026-03-16T17:14:25.333436274) [Dbg] [FuelClient.cc:1968] Downloading from a referral link [https://gz-fuel-resources-production.s3.amazonaws.com/OpenRobotics/14970736-c0d1-4a2a-bbef-6f98384dd180/.zips/2.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAS5OHIRKDBY6VUUFF%2F20260316%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260316T171425Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d7b54b44b6cf976130fecaa5152b540f718c97c69cb63cff261b404b492c58c9]
+(2026-03-16T17:14:26.597029344) (2026-03-16T17:14:26.597051374) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/femalevisitorsit/2/meshes/FemaleVisitorSit.mtl]
+(2026-03-16T17:14:26.600503786) (2026-03-16T17:14:26.600521872) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/femalevisitorsit/2/meshes/FemaleVisitorSit.obj]
+(2026-03-16T17:14:26.604513495) (2026-03-16T17:14:26.604526237) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/femalevisitorsit/2/meshes/FemaleVisitorSit.png]
+(2026-03-16T17:14:26.604675631) (2026-03-16T17:14:26.604678686) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/femalevisitorsit/2/meshes/FemaleVisitorSit_Col.mtl]
+(2026-03-16T17:14:26.604732537) (2026-03-16T17:14:26.604737364) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/femalevisitorsit/2/meshes/FemaleVisitorSit_Col.obj]
+(2026-03-16T17:14:26.605071617) (2026-03-16T17:14:26.605074548) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/femalevisitorsit/2/meshes/HandbagBlack.png]
+(2026-03-16T17:14:26.605110084) (2026-03-16T17:14:26.605112744) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/femalevisitorsit/2/model.config]
+(2026-03-16T17:14:26.605149587) (2026-03-16T17:14:26.605152259) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/femalevisitorsit/2/model.sdf]
+(2026-03-16T17:14:26.605472016) (2026-03-16T17:14:26.605474670) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/femalevisitorsit/2/thumbnails/1.png]
+(2026-03-16T17:14:26.605667639) (2026-03-16T17:14:26.605670083) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/femalevisitorsit/2/thumbnails/2.png]
+(2026-03-16T17:14:26.605943770) (2026-03-16T17:14:26.605946182) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/femalevisitorsit/2/thumbnails/3.png]
+(2026-03-16T17:14:26.606191312) (2026-03-16T17:14:26.606193530) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/femalevisitorsit/2/thumbnails/4.png]
+(2026-03-16T17:14:26.606427777) (2026-03-16T17:14:26.606430021) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/femalevisitorsit/2/thumbnails/5.png]
+(2026-03-16T17:14:26.606495439) (2026-03-16T17:14:26.606497708) [Dbg] [LocalCache.cc:619] Model [femalevisitorsit] loading resource from another model, named [FemaleVisitorSit]. On Blueprint (gz-fuel-tools 3) and Citadel (gz-fuel-tools 4), [FemaleVisitorSit] is ignored. From Dome (gz-fuel-tools 5), [femalevisitorsit] will be used. If [FemaleVisitorSit] is not a model belonging to owner [openrobotics], fix your SDF file!
+(2026-03-16T17:14:26.606530342) (2026-03-16T17:14:26.606532479) [Dbg] [LocalCache.cc:619] Model [femalevisitorsit] loading resource from another model, named [FemaleVisitorSit]. On Blueprint (gz-fuel-tools 3) and Citadel (gz-fuel-tools 4), [FemaleVisitorSit] is ignored. From Dome (gz-fuel-tools 5), [femalevisitorsit] will be used. If [FemaleVisitorSit] is not a model belonging to owner [openrobotics], fix your SDF file!
+(2026-03-16T17:14:26.628110415) (2026-03-16T17:14:26.628115800) [Msg] Downloading model [fuel.gazebosim.org/openrobotics/models/malevisitoronphone]
+(2026-03-16T17:14:27.217718782) (2026-03-16T17:14:27.217734748) [Dbg] [FuelClient.cc:1968] Downloading from a referral link [https://gz-fuel-resources-production.s3.amazonaws.com/OpenRobotics/d7fd6d9c-f3c4-4dab-a616-35435c07bee3/.zips/2.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAS5OHIRKDBY6VUUFF%2F20260316%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260316T171427Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e2073c5ec89631770b315efa3de56325a80e431b48f89c1a505a5e90e847f684]
+(2026-03-16T17:14:28.743229584) (2026-03-16T17:14:28.743235190) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/malevisitoronphone/2/meshes/MaleVisitor.png]
+(2026-03-16T17:14:28.743312425) (2026-03-16T17:14:28.743314322) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/malevisitoronphone/2/meshes/MaleVisitorStatic.mtl]
+(2026-03-16T17:14:28.743949671) (2026-03-16T17:14:28.743951545) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/malevisitoronphone/2/meshes/MaleVisitorStatic.obj]
+(2026-03-16T17:14:28.743974972) (2026-03-16T17:14:28.743976458) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/malevisitoronphone/2/meshes/MaleVisitorStatic_Col.mtl]
+(2026-03-16T17:14:28.744006201) (2026-03-16T17:14:28.744007726) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/malevisitoronphone/2/meshes/MaleVisitorStatic_Col.obj]
+(2026-03-16T17:14:28.744067262) (2026-03-16T17:14:28.744068806) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/malevisitoronphone/2/meshes/Phone.png]
+(2026-03-16T17:14:28.744093634) (2026-03-16T17:14:28.744095123) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/malevisitoronphone/2/model.config]
+(2026-03-16T17:14:28.744118035) (2026-03-16T17:14:28.744119569) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/malevisitoronphone/2/model.sdf]
+(2026-03-16T17:14:28.744292322) (2026-03-16T17:14:28.744293940) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/malevisitoronphone/2/thumbnails/1.png]
+(2026-03-16T17:14:28.744396794) (2026-03-16T17:14:28.744398354) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/malevisitoronphone/2/thumbnails/2.png]
+(2026-03-16T17:14:28.744578166) (2026-03-16T17:14:28.744579702) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/malevisitoronphone/2/thumbnails/3.png]
+(2026-03-16T17:14:28.744731506) (2026-03-16T17:14:28.744733172) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/malevisitoronphone/2/thumbnails/4.png]
+(2026-03-16T17:14:28.744938019) (2026-03-16T17:14:28.744939548) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/openrobotics/models/malevisitoronphone/2/thumbnails/5.png]
+(2026-03-16T17:14:28.745008335) (2026-03-16T17:14:28.745010063) [Dbg] [LocalCache.cc:619] Model [malevisitoronphone] loading resource from another model, named [MaleVisitorOnPhone]. On Blueprint (gz-fuel-tools 3) and Citadel (gz-fuel-tools 4), [MaleVisitorOnPhone] is ignored. From Dome (gz-fuel-tools 5), [malevisitoronphone] will be used. If [MaleVisitorOnPhone] is not a model belonging to owner [openrobotics], fix your SDF file!
+(2026-03-16T17:14:28.745036079) (2026-03-16T17:14:28.745037582) [Dbg] [LocalCache.cc:619] Model [malevisitoronphone] loading resource from another model, named [MaleVisitorOnPhone]. On Blueprint (gz-fuel-tools 3) and Citadel (gz-fuel-tools 4), [MaleVisitorOnPhone] is ignored. From Dome (gz-fuel-tools 5), [malevisitoronphone] will be used. If [MaleVisitorOnPhone] is not a model belonging to owner [openrobotics], fix your SDF file!
+(2026-03-16T17:14:28.758176641) (2026-03-16T17:14:28.758181213) [Msg] Downloading model [fuel.gazebosim.org/plateau/models/casual female]
+(2026-03-16T17:14:29.367901879) (2026-03-16T17:14:29.367946974) [Dbg] [FuelClient.cc:1968] Downloading from a referral link [https://gz-fuel-resources-production.s3.amazonaws.com/plateau/89535190-0228-4f69-9f9c-ab9f58034d12/.zips/1.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAS5OHIRKDBY6VUUFF%2F20260316%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260316T171429Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=668eb4ad30a8d2b617f0543c7468bb6b8b871116b16ee1ab30f36f678dc4958c]
+(2026-03-16T17:14:45.295921820) (2026-03-16T17:14:45.295933018) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/plateau/models/casual female/1/materials/textures/brown_eye.png]
+(2026-03-16T17:14:45.297017292) (2026-03-16T17:14:45.297020659) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/plateau/models/casual female/1/materials/textures/casual_female.png]
+(2026-03-16T17:14:45.297449796) (2026-03-16T17:14:45.297452431) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/plateau/models/casual female/1/materials/textures/eyebrow002.png]
+(2026-03-16T17:14:45.297856555) (2026-03-16T17:14:45.297859173) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/plateau/models/casual female/1/materials/textures/eyelashes01.png]
+(2026-03-16T17:14:45.303425681) (2026-03-16T17:14:45.303429298) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/plateau/models/casual female/1/materials/textures/female_casualsuit01_diffuse.png]
+(2026-03-16T17:14:45.329741481) (2026-03-16T17:14:45.329749805) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/plateau/models/casual female/1/materials/textures/female_casualsuit01_normal.png]
+(2026-03-16T17:14:45.337946862) (2026-03-16T17:14:45.337957752) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/plateau/models/casual female/1/materials/textures/female_casualsuit02_diffuse.png]
+(2026-03-16T17:14:45.347533577) (2026-03-16T17:14:45.347559346) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/plateau/models/casual female/1/materials/textures/female_casualsuit02_normal.png]
+(2026-03-16T17:14:45.355792838) (2026-03-16T17:14:45.355798966) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/plateau/models/casual female/1/materials/textures/ponytail01_diffuse.png]
+(2026-03-16T17:14:45.359259191) (2026-03-16T17:14:45.359266375) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/plateau/models/casual female/1/materials/textures/shoes05_diffuse.png]
+(2026-03-16T17:14:45.362059515) (2026-03-16T17:14:45.362063052) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/plateau/models/casual female/1/materials/textures/tongue01_diffuse.png]
+(2026-03-16T17:14:45.365632289) (2026-03-16T17:14:45.365636389) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/plateau/models/casual female/1/materials/textures/young_lightskinned_female_diffuse.png]
+(2026-03-16T17:14:45.380452174) (2026-03-16T17:14:45.380473056) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/plateau/models/casual female/1/meshes/casual_female.dae]
+(2026-03-16T17:14:45.380708011) (2026-03-16T17:14:45.380710574) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/plateau/models/casual female/1/model.config]
+(2026-03-16T17:14:45.380788834) (2026-03-16T17:14:45.380790537) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/plateau/models/casual female/1/model.sdf]
+(2026-03-16T17:14:45.381412272) (2026-03-16T17:14:45.381417416) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/plateau/models/casual female/1/thumbnails/1.png]
+(2026-03-16T17:14:45.381647729) (2026-03-16T17:14:45.381649661) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/plateau/models/casual female/1/thumbnails/2.png]
+(2026-03-16T17:14:45.381872646) (2026-03-16T17:14:45.381874357) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/plateau/models/casual female/1/thumbnails/3.png]
+(2026-03-16T17:14:45.382146012) (2026-03-16T17:14:45.382147766) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/plateau/models/casual female/1/thumbnails/4.png]
+(2026-03-16T17:14:45.382381388) (2026-03-16T17:14:45.382383338) [Dbg] [Zip.cc:180] Created file [/root/.gz/fuel/fuel.gazebosim.org/plateau/models/casual female/1/thumbnails/5.png]
+(2026-03-16T17:14:45.512202473) (2026-03-16T17:14:45.512211343) [Msg] Serving entity system service on [/entity/system/add]
+(2026-03-16T17:14:45.613098321) (2026-03-16T17:14:45.613107742) [Dbg] [Physics.cc:899] Loaded [gz::physics::dartsim::Plugin] from library [/opt/ros/jazzy/opt/gz_physics_vendor/lib/gz-physics-7/engine-plugins/libgz-physics-dartsim-plugin.so]
+(2026-03-16T17:14:45.613165037) (2026-03-16T17:14:45.613169746) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::Physics] for entity [1]
+(2026-03-16T17:14:45.616779250) (2026-03-16T17:14:45.616797118) [Msg] Create service on [/world/warehouse/create_multiple] (async)
+(2026-03-16T17:14:45.616835629) (2026-03-16T17:14:45.616839439) [Msg] Create service on [/world/warehouse/create_multiple/blocking] (blocking)
+(2026-03-16T17:14:45.617111401) (2026-03-16T17:14:45.617115488) [Msg] Remove service on [/world/warehouse/remove] (async)
+(2026-03-16T17:14:45.617129237) (2026-03-16T17:14:45.617131413) [Msg] Remove service on [/world/warehouse/remove/blocking] (blocking)
+(2026-03-16T17:14:45.617357926) (2026-03-16T17:14:45.617362845) [Msg] Pose service on [/world/warehouse/set_pose] (async)
+(2026-03-16T17:14:45.617388487) (2026-03-16T17:14:45.617390633) [Msg] Pose service on [/world/warehouse/set_pose/blocking] (blocking)
+(2026-03-16T17:14:45.617623200) (2026-03-16T17:14:45.617627006) [Msg] Pose service on [/world/warehouse/set_pose_vector] (async)
+(2026-03-16T17:14:45.617640102) (2026-03-16T17:14:45.617642256) [Msg] Pose service on [/world/warehouse/set_pose_vector/blocking] (blocking)
+(2026-03-16T17:14:45.617909280) (2026-03-16T17:14:45.617914271) [Msg] Light configuration service on [/world/warehouse/light_config] (async)
+(2026-03-16T17:14:45.617936873) (2026-03-16T17:14:45.617939031) [Msg] Light configuration service on [/world/warehouse/light_config/blocking] (blocking)
+(2026-03-16T17:14:45.618352374) (2026-03-16T17:14:45.618357412) [Msg] Physics service on [/world/warehouse/set_physics] (async)
+(2026-03-16T17:14:45.618376736) (2026-03-16T17:14:45.618378874) [Msg] Physics service on [/world/warehouse/set_physics/blocking] (blocking)
+(2026-03-16T17:14:45.618592851) (2026-03-16T17:14:45.618597525) [Msg] SphericalCoordinates service on [/world/warehouse/set_spherical_coordinates] (async)
+(2026-03-16T17:14:45.618612677) (2026-03-16T17:14:45.618614794) [Msg] SphericalCoordinates service on [/world/warehouse/set_spherical_coordinates/blocking] (blocking)
+(2026-03-16T17:14:45.618753718) (2026-03-16T17:14:45.618757627) [Msg] Enable collision service on [/world/warehouse/enable_collision] (async)
+(2026-03-16T17:14:45.618776787) (2026-03-16T17:14:45.618779104) [Msg] Enable collision service on [/world/warehouse/enable_collision/blocking] (blocking)
+(2026-03-16T17:14:45.618937290) (2026-03-16T17:14:45.618941102) [Msg] Disable collision service on [/world/warehouse/disable_collision] (async)
+(2026-03-16T17:14:45.618955846) (2026-03-16T17:14:45.618957937) [Msg] Disable collision service on [/world/warehouse/disable_collision/blocking] (blocking)
+(2026-03-16T17:14:45.619163901) (2026-03-16T17:14:45.619167850) [Msg] Material service on [/world/warehouse/visual_config] (async)
+(2026-03-16T17:14:45.619182794) (2026-03-16T17:14:45.619184926) [Msg] Material service on [/world/warehouse/visual_config/blocking] (blocking)
+(2026-03-16T17:14:45.619355169) (2026-03-16T17:14:45.619357919) [Msg] Material service on [/world/warehouse/wheel_slip] (async)
+(2026-03-16T17:14:45.619369317) (2026-03-16T17:14:45.619371423) [Msg] Material service on [/world/warehouse/wheel_slip/blocking] (blocking)
+(2026-03-16T17:14:45.619393716) (2026-03-16T17:14:45.619395927) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::UserCommands] for entity [1]
+(2026-03-16T17:14:45.621767004) (2026-03-16T17:14:45.621772543) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::SceneBroadcaster] for entity [1]
+(2026-03-16T17:14:45.622829732) (2026-03-16T17:14:45.622833048) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::Contact] for entity [1]
+(2026-03-16T17:14:45.623997817) (2026-03-16T17:14:45.624001001) [Msg] Loaded level [default]
+(2026-03-16T17:14:45.624892001) (2026-03-16T17:14:45.624896505) [Msg] Serving world controls on [/world/warehouse/control], [/world/warehouse/control/state] and [/world/warehouse/playback/control]
+(2026-03-16T17:14:45.625029771) (2026-03-16T17:14:45.625033185) [Msg] Serving GUI information on [/world/warehouse/gui/info]
+(2026-03-16T17:14:45.625050607) (2026-03-16T17:14:45.625053250) [Msg] World [warehouse] initialized with [default_physics] physics profile.
+(2026-03-16T17:14:45.625394374) (2026-03-16T17:14:45.625398832) [Msg] Serving world SDF generation service on [/world/warehouse/generate_world_sdf]
+(2026-03-16T17:14:45.625527456) (2026-03-16T17:14:45.625530917) [Msg] Serving world names on [/gazebo/worlds]
+(2026-03-16T17:14:45.625612708) (2026-03-16T17:14:45.625615164) [Msg] Resource path add service on [/gazebo/resource_paths/add].
+(2026-03-16T17:14:45.625698541) (2026-03-16T17:14:45.625701510) [Msg] Resource path get service on [/gazebo/resource_paths/get].
+(2026-03-16T17:14:45.625790228) (2026-03-16T17:14:45.625793170) [Msg] Resource path resolve service on [/gazebo/resource_paths/resolve].
+(2026-03-16T17:14:45.726883938) (2026-03-16T17:14:45.726912493) [Msg] Resource paths published on [/gazebo/resource_paths].
+(2026-03-16T17:14:45.828310789) (2026-03-16T17:14:45.828332149) [Msg] Server control service on [/server_control].
+(2026-03-16T17:14:45.930177504) (2026-03-16T17:14:45.930211012) [Msg] Found no publishers on /stats, adding root stats topic
+(2026-03-16T17:14:45.931518246) (2026-03-16T17:14:45.931538126) [Msg] Found no publishers on /clock, adding root clock topic
+(2026-03-16T17:14:45.932368069) (2026-03-16T17:14:45.932384569) [Dbg] [SimulationRunner.cc:533] Creating PostUpdate worker threads: 3
+(2026-03-16T17:14:45.932448932) (2026-03-16T17:14:45.932459133) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (0)
+(2026-03-16T17:14:45.932619137) (2026-03-16T17:14:45.932629387) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (1)
+(2026-03-16T17:14:46.69790324) (2026-03-16T17:14:46.69798737) [Wrn] [SdfEntityCreator.cc:933] Gazebo does not support Ogre material scripts. See https://gazebosim.org/api/sim/8/migrationsdf.html#:~:text=Materials for details.
+(2026-03-16T17:14:46.69830503) (2026-03-16T17:14:46.69833361) [Wrn] [SdfEntityCreator.cc:949] Using an internal gazebo.material to parse Gazebo/DarkGrey
+(2026-03-16T17:14:46.69970036) (2026-03-16T17:14:46.69972048) [Wrn] [SdfEntityCreator.cc:933] Gazebo does not support Ogre material scripts. See https://gazebosim.org/api/sim/8/migrationsdf.html#:~:text=Materials for details.
+(2026-03-16T17:14:46.69981938) (2026-03-16T17:14:46.69983539) [Wrn] [SdfEntityCreator.cc:949] Using an internal gazebo.material to parse Gazebo/DarkGrey
+(2026-03-16T17:14:46.70417959) (2026-03-16T17:14:46.70420143) [Wrn] [SdfEntityCreator.cc:933] Gazebo does not support Ogre material scripts. See https://gazebosim.org/api/sim/8/migrationsdf.html#:~:text=Materials for details.
+(2026-03-16T17:14:46.70435263) (2026-03-16T17:14:46.70437766) [Wrn] [SdfEntityCreator.cc:949] Using an internal gazebo.material to parse Gazebo/DarkGrey
+(2026-03-16T17:14:46.70518149) (2026-03-16T17:14:46.70521327) [Wrn] [SdfEntityCreator.cc:933] Gazebo does not support Ogre material scripts. See https://gazebosim.org/api/sim/8/migrationsdf.html#:~:text=Materials for details.
+(2026-03-16T17:14:46.70535739) (2026-03-16T17:14:46.70537899) [Wrn] [SdfEntityCreator.cc:949] Using an internal gazebo.material to parse Gazebo/DarkGrey
+(2026-03-16T17:14:48.193064308) (2026-03-16T17:14:48.193085966) [Dbg] [SystemManager.cc:80] Loaded system [gz_ros2_control::GazeboSimROS2ControlPlugin] for entity [132]
+(2026-03-16T17:14:48.203494821) (2026-03-16T17:14:48.203501238) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::PosePublisher] for entity [132]
+(2026-03-16T17:14:48.203754983) (2026-03-16T17:14:48.203757801) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::Contact] for entity [132]
+(2026-03-16T17:14:48.217137709) (2026-03-16T17:14:48.217146702) [Dbg] [Sensors.cc:697] Configuring Sensors system
+(2026-03-16T17:14:48.217219792) (2026-03-16T17:14:48.217224642) [Dbg] [Sensors.cc:557] SensorsPrivate::Run
+(2026-03-16T17:14:48.217312445) (2026-03-16T17:14:48.217317565) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::Sensors] for entity [132]
+(2026-03-16T17:14:48.217385634) (2026-03-16T17:14:48.217393376) [Dbg] [Sensors.cc:532] SensorsPrivate::RenderThread started
+(2026-03-16T17:14:48.217428171) (2026-03-16T17:14:48.217431868) [Dbg] [Sensors.cc:337] Waiting for init
+(2026-03-16T17:14:48.217507822) (2026-03-16T17:14:48.217513978) [Dbg] [UserCommands.cc:1094] Created entity [132] named [turtlebot4]
+(2026-03-16T17:14:48.222087398) (2026-03-16T17:14:48.222096438) [Msg] Contact system publishing on /bumper_contact
+(2026-03-16T17:14:48.228593054) (2026-03-16T17:14:48.228600935) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-16T17:14:48.228615546) (2026-03-16T17:14:48.228617386) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [warehouse_collision] couldn't be created
+(2026-03-16T17:14:48.232946282) (2026-03-16T17:14:48.232952082) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-16T17:14:48.232962494) (2026-03-16T17:14:48.232964225) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [collision] couldn't be created
+(2026-03-16T17:14:48.233009160) (2026-03-16T17:14:48.233010980) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-16T17:14:48.233016336) (2026-03-16T17:14:48.233017970) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [collision] couldn't be created
+(2026-03-16T17:14:48.233277037) (2026-03-16T17:14:48.233279208) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-16T17:14:48.233284956) (2026-03-16T17:14:48.233286597) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [collision] couldn't be created
+(2026-03-16T17:14:48.233327758) (2026-03-16T17:14:48.233329522) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-16T17:14:48.233334701) (2026-03-16T17:14:48.233336332) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [collision] couldn't be created
+(2026-03-16T17:14:48.233373274) (2026-03-16T17:14:48.233375052) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-16T17:14:48.233380165) (2026-03-16T17:14:48.233381748) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [collision] couldn't be created
+(2026-03-16T17:14:48.234484057) (2026-03-16T17:14:48.234490004) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-16T17:14:48.234503026) (2026-03-16T17:14:48.234505998) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [base_link_fixed_joint_lump__shell_collision_collision_1] couldn't be created
+(2026-03-16T17:14:48.234546386) (2026-03-16T17:14:48.234549296) [Dbg] [SDFFeatures.cc:332] Mesh construction from an SDF has not been implemented yet for dartsim. Use AttachMeshShapeFeature to use mesh shapes.
+(2026-03-16T17:14:48.234558507) (2026-03-16T17:14:48.234561370) [Dbg] [SDFFeatures.cc:864] The geometry element of collision [bumper_collision] couldn't be created
+(2026-03-16T17:14:48.249288085) (2026-03-16T17:14:48.249296853) [Wrn] [OBJLoader.cc:91] Both `d` and `Tr` parameters defined for "Chair". Use the value of `d` for dissolve (line 8 in .mtl.)
+
+(2026-03-16T17:14:48.249834896) (2026-03-16T17:14:48.249843013) [Wrn] [OBJLoader.cc:91] Both `d` and `Tr` parameters defined for "CoffeeTable". Use the value of `d` for dissolve (line 8 in .mtl.)
+
+(2026-03-16T17:14:48.371026511) (2026-03-16T17:14:48.371032323) [Dbg] [SimulationFeatures.cc:90] Simulation timestep set to: 0.003
+(2026-03-16T17:14:48.414075433) (2026-03-16T17:14:48.414084678) [Msg] Serving scene information on [/world/warehouse/scene/info]
+(2026-03-16T17:14:48.414222060) (2026-03-16T17:14:48.414225690) [Msg] Serving graph information on [/world/warehouse/scene/graph]
+(2026-03-16T17:14:48.414423126) (2026-03-16T17:14:48.414427130) [Msg] Serving full state on [/world/warehouse/state]
+(2026-03-16T17:14:48.414515915) (2026-03-16T17:14:48.414519327) [Msg] Serving full state (async) on [/world/warehouse/state_async]
+(2026-03-16T17:14:48.414663810) (2026-03-16T17:14:48.414667264) [Msg] Publishing scene information on [/world/warehouse/scene/info]
+(2026-03-16T17:14:48.415302655) (2026-03-16T17:14:48.415308077) [Msg] Publishing entity deletions on [/world/warehouse/scene/deletion]
+(2026-03-16T17:14:48.415525401) (2026-03-16T17:14:48.415530080) [Msg] Publishing state changes on [/world/warehouse/state]
+(2026-03-16T17:14:48.415645647) (2026-03-16T17:14:48.415666387) [Msg] Publishing pose messages on [/world/warehouse/pose/info]
+(2026-03-16T17:14:48.415774438) (2026-03-16T17:14:48.415777757) [Msg] Publishing dynamic pose messages on [/world/warehouse/dynamic_pose/info]
+(2026-03-16T17:14:48.416495143) (2026-03-16T17:14:48.416498502) [Dbg] [EntityComponentManager.cc:1656] Updated state thread iterators: 12 threads processing around 21 entities each.
+(2026-03-16T17:14:48.417206085) (2026-03-16T17:14:48.417213920) [Wrn] [Component.hh:127] Trying to serialize component with data type [St10shared_ptrIN3sdf3v147ElementEE], which doesn't have `operator<<`. Component will not be serialized.
+((2026-03-16T17:14:48.4209868282026-03-16T17:14:48.420988606) ) ) (2026-03-16T17:14:48.421002922) (2026-03-16T17:14:48.421011136) [Dbg] [SimulationRunner.cc:560] Exiting postupdate worker thread (1)Exiting postupdate worker thread (0)
+(2026-03-16T17:14:48.421244024) (2026-03-16T17:14:48.421251494) [Dbg] [SimulationRunner.cc:533] Creating PostUpdate worker threads: 7
+(2026-03-16T17:14:48.421283317) (2026-03-16T17:14:48.421287809) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (0)
+(2026-03-16T17:14:48.421374001) (2026-03-16T17:14:48.421378755) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (1)
+(2026-03-16T17:14:48.421423292) (2026-03-16T17:14:48.421427767) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (2)
+(2026-03-16T17:14:48.421497152) (2026-03-16T17:14:48.421501875) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (3)
+(2026-03-16T17:14:48.421545237) (2026-03-16T17:14:48.421550425) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (4)
+(2026-03-16T17:14:48.421644937) (2026-03-16T17:14:48.421650922) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (5)
+(2026-03-16T17:14:48.471764449) (2026-03-16T17:14:48.471805516) [Dbg] [SystemManager.cc:80] Loaded system [gz::sim::systems::PosePublisher] for entity [250]
+(2026-03-16T17:14:48.472169338) (2026-03-16T17:14:48.472173167) [Dbg] [UserCommands.cc:1094] Created entity [250] named [standard_dock]
+(2026-03-16T17:14:48.486711483) (2026-03-16T17:14:48.486720669) [Dbg] [Sensors.cc:953] Initialization needed
+(2026-03-16T17:14:48.486771459) (2026-03-16T17:14:48.486780409) [Dbg] [Sensors.cc:349] Initializing render context
+(2026-03-16T17:14:48.486916403) (2026-03-16T17:14:48.486922042) [Msg] Loading plugin [gz-rendering-ogre]
+(((((((2026-03-16T17:14:48.4879177212026-03-16T17:14:48.4879177212026-03-16T17:14:48.4879177212026-03-16T17:14:48.4879199712026-03-16T17:14:48.4879177212026-03-16T17:14:48.4879199712026-03-16T17:14:48.487921082) ((2026-03-16T17:14:48.487954981) ) ) 2026-03-16T17:14:48.487960824) ) ((2026-03-16T17:14:48.487972787) () ) ) 2026-03-16T17:14:48.4880066952026-03-16T17:14:48.488006695[Dbg] [SimulationRunner.cc:560] [Dbg] [SimulationRunner.cc:560] ) Exiting postupdate worker thread (00)
+Exiting postupdate worker thread (Exiting postupdate worker thread (5)
+Exiting postupdate worker thread (2)
+Exiting postupdate worker thread (1)
+2026-03-16T17:14:48.487991845) [Dbg] [SimulationRunner.cc:560] Exiting postupdate worker thread (3)
+2026-03-16T17:14:48.488337886) (2026-03-16T17:14:48.488348211) [Dbg] [SimulationRunner.cc:560] Exiting postupdate worker thread (4)
+(2026-03-16T17:14:48.489179896) (2026-03-16T17:14:48.489187659) [Dbg] [SimulationRunner.cc:533] Creating PostUpdate worker threads: 8
+(2026-03-16T17:14:48.489211876) (2026-03-16T17:14:48.489216052) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (0)
+(2026-03-16T17:14:48.507346374) (2026-03-16T17:14:48.507356868) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (1)
+(2026-03-16T17:14:48.507413570) (2026-03-16T17:14:48.507418048) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (2)
+(2026-03-16T17:14:48.507439420) (2026-03-16T17:14:48.507441114) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (3)
+(2026-03-16T17:14:48.507470676) (2026-03-16T17:14:48.507472364) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (4)
+(2026-03-16T17:14:48.507526193) (2026-03-16T17:14:48.507527885) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (5)
+(2026-03-16T17:14:48.507553475) (2026-03-16T17:14:48.507555093) [Dbg] [SimulationRunner.cc:544] Creating postupdate worker thread (6)
+(2026-03-16T17:14:48.650162389) (2026-03-16T17:14:48.650169630) [Dbg] [RenderUtil.cc:2646] Create scene [scene]
+(2026-03-16T17:14:48.651625503) (2026-03-16T17:14:48.651635284) [Dbg] [Sensors.cc:953] Initialization needed
+(2026-03-16T17:14:48.651738110) (2026-03-16T17:14:48.651744278) [Dbg] [Sensors.cc:391] Rendering Thread initialized
+(2026-03-16T17:14:50.499706779) (2026-03-16T17:14:50.499719681) [Wrn] [ColladaLoader.cc:2395] Triangle input semantic: 'COLOR' is currently not supported
+(2026-03-16T17:14:50.566789032) (2026-03-16T17:14:50.566796590) [Wrn] [ColladaLoader.cc:2395] Triangle input semantic: 'COLOR' is currently not supported
+(2026-03-16T17:14:50.581955022) (2026-03-16T17:14:50.581963248) [Dbg] [RgbdCameraSensor.cc:210] RGB images for [turtlebot4::oakd_rgb_camera_frame::rgbd_camera] advertised on [world/warehouse/model/turtlebot4/link/oakd_rgb_camera_frame/sensor/rgbd_camera/image]
+(2026-03-16T17:14:50.582081744) (2026-03-16T17:14:50.582085086) [Dbg] [RgbdCameraSensor.cc:224] Depth images for [turtlebot4::oakd_rgb_camera_frame::rgbd_camera] advertised on [world/warehouse/model/turtlebot4/link/oakd_rgb_camera_frame/sensor/rgbd_camera/depth_image]
+(2026-03-16T17:14:50.582199420) (2026-03-16T17:14:50.582202567) [Dbg] [RgbdCameraSensor.cc:238] Points for [turtlebot4::oakd_rgb_camera_frame::rgbd_camera] advertised on [world/warehouse/model/turtlebot4/link/oakd_rgb_camera_frame/sensor/rgbd_camera/points]
+(2026-03-16T17:14:50.582348522) (2026-03-16T17:14:50.582350959) [Dbg] [CameraSensor.cc:695] Camera info for [turtlebot4::oakd_rgb_camera_frame::rgbd_camera] advertised on [world/warehouse/model/turtlebot4/link/oakd_rgb_camera_frame/sensor/rgbd_camera/camera_info]
+(2026-03-16T17:14:50.583379419) (2026-03-16T17:14:50.583385949) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::base_link::cliff_front_left] advertised on [world/warehouse/model/turtlebot4/link/base_link/sensor/cliff_front_left/scan]
+(2026-03-16T17:14:50.583649828) (2026-03-16T17:14:50.583653949) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::base_link::cliff_front_left] advertised on [world/warehouse/model/turtlebot4/link/base_link/sensor/cliff_front_left/scan/points]
+(2026-03-16T17:14:50.592876289) (2026-03-16T17:14:50.592888215) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::base_link::cliff_front_right] advertised on [world/warehouse/model/turtlebot4/link/base_link/sensor/cliff_front_right/scan]
+(2026-03-16T17:14:50.593093556) (2026-03-16T17:14:50.593097952) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::base_link::cliff_front_right] advertised on [world/warehouse/model/turtlebot4/link/base_link/sensor/cliff_front_right/scan/points]
+(2026-03-16T17:14:50.593547293) (2026-03-16T17:14:50.593553910) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::base_link::cliff_side_left] advertised on [world/warehouse/model/turtlebot4/link/base_link/sensor/cliff_side_left/scan]
+(2026-03-16T17:14:50.593692066) (2026-03-16T17:14:50.593695247) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::base_link::cliff_side_left] advertised on [world/warehouse/model/turtlebot4/link/base_link/sensor/cliff_side_left/scan/points]
+(2026-03-16T17:14:50.594291417) (2026-03-16T17:14:50.594296555) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::base_link::cliff_side_right] advertised on [world/warehouse/model/turtlebot4/link/base_link/sensor/cliff_side_right/scan]
+(2026-03-16T17:14:50.594390946) (2026-03-16T17:14:50.594394057) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::base_link::cliff_side_right] advertised on [world/warehouse/model/turtlebot4/link/base_link/sensor/cliff_side_right/scan/points]
+(2026-03-16T17:14:50.594761606) (2026-03-16T17:14:50.594766783) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::ir_intensity_front_center_left::ir_intensity_front_center_left] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_front_center_left/sensor/ir_intensity_front_center_left/scan]
+(2026-03-16T17:14:50.594887085) (2026-03-16T17:14:50.594890419) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::ir_intensity_front_center_left::ir_intensity_front_center_left] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_front_center_left/sensor/ir_intensity_front_center_left/scan/points]
+(2026-03-16T17:14:50.595300040) (2026-03-16T17:14:50.595304784) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::ir_intensity_front_center_right::ir_intensity_front_center_right] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_front_center_right/sensor/ir_intensity_front_center_right/scan]
+(2026-03-16T17:14:50.595417437) (2026-03-16T17:14:50.595420817) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::ir_intensity_front_center_right::ir_intensity_front_center_right] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_front_center_right/sensor/ir_intensity_front_center_right/scan/points]
+(2026-03-16T17:14:50.595820468) (2026-03-16T17:14:50.595825513) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::ir_intensity_front_left::ir_intensity_front_left] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_front_left/sensor/ir_intensity_front_left/scan]
+(2026-03-16T17:14:50.595900365) (2026-03-16T17:14:50.595903706) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::ir_intensity_front_left::ir_intensity_front_left] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_front_left/sensor/ir_intensity_front_left/scan/points]
+(2026-03-16T17:14:50.596554847) (2026-03-16T17:14:50.596560840) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::ir_intensity_front_right::ir_intensity_front_right] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_front_right/sensor/ir_intensity_front_right/scan]
+(2026-03-16T17:14:50.596699304) (2026-03-16T17:14:50.596702637) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::ir_intensity_front_right::ir_intensity_front_right] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_front_right/sensor/ir_intensity_front_right/scan/points]
+(2026-03-16T17:14:50.597138419) (2026-03-16T17:14:50.597143733) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::ir_intensity_left::ir_intensity_left] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_left/sensor/ir_intensity_left/scan]
+(2026-03-16T17:14:50.597233164) (2026-03-16T17:14:50.597236364) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::ir_intensity_left::ir_intensity_left] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_left/sensor/ir_intensity_left/scan/points]
+(2026-03-16T17:14:50.597597186) (2026-03-16T17:14:50.597602096) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::ir_intensity_right::ir_intensity_right] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_right/sensor/ir_intensity_right/scan]
+(2026-03-16T17:14:50.598144710) (2026-03-16T17:14:50.598150303) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::ir_intensity_right::ir_intensity_right] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_right/sensor/ir_intensity_right/scan/points]
+(2026-03-16T17:14:50.598584900) (2026-03-16T17:14:50.598589671) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::ir_intensity_side_left::ir_intensity_side_left] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_side_left/sensor/ir_intensity_side_left/scan]
+(2026-03-16T17:14:50.598695450) (2026-03-16T17:14:50.598699170) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::ir_intensity_side_left::ir_intensity_side_left] advertised on [world/warehouse/model/turtlebot4/link/ir_intensity_side_left/sensor/ir_intensity_side_left/scan/points]
+(2026-03-16T17:14:50.599079446) (2026-03-16T17:14:50.599084293) [Dbg] [Lidar.cc:139] Laser scans for [turtlebot4::rplidar_link::rplidar] advertised on [world/warehouse/model/turtlebot4/link/rplidar_link/sensor/rplidar/scan]
+(2026-03-16T17:14:50.599175357) (2026-03-16T17:14:50.599178222) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [turtlebot4::rplidar_link::rplidar] advertised on [world/warehouse/model/turtlebot4/link/rplidar_link/sensor/rplidar/scan/points]
+(2026-03-16T17:14:50.599538384) (2026-03-16T17:14:50.599542703) [Dbg] [Lidar.cc:139] Laser scans for [standard_dock::green_buoy_link::green_buoy] advertised on [world/warehouse/model/standard_dock/link/green_buoy_link/sensor/green_buoy/scan]
+(2026-03-16T17:14:50.599624441) (2026-03-16T17:14:50.599627630) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [standard_dock::green_buoy_link::green_buoy] advertised on [world/warehouse/model/standard_dock/link/green_buoy_link/sensor/green_buoy/scan/points]
+(2026-03-16T17:14:50.599997430) (2026-03-16T17:14:50.600001926) [Dbg] [Lidar.cc:139] Laser scans for [standard_dock::halo_link::halo] advertised on [world/warehouse/model/standard_dock/link/halo_link/sensor/halo/scan]
+(2026-03-16T17:14:50.600076631) (2026-03-16T17:14:50.600079585) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [standard_dock::halo_link::halo] advertised on [world/warehouse/model/standard_dock/link/halo_link/sensor/halo/scan/points]
+(2026-03-16T17:14:50.600447378) (2026-03-16T17:14:50.600452094) [Dbg] [Lidar.cc:139] Laser scans for [standard_dock::red_buoy_link::red_buoy] advertised on [world/warehouse/model/standard_dock/link/red_buoy_link/sensor/red_buoy/scan]
+(2026-03-16T17:14:50.600539681) (2026-03-16T17:14:50.600542928) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [standard_dock::red_buoy_link::red_buoy] advertised on [world/warehouse/model/standard_dock/link/red_buoy_link/sensor/red_buoy/scan/points]
+(2026-03-16T17:14:50.600914863) (2026-03-16T17:14:50.600919108) [Dbg] [Lidar.cc:139] Laser scans for [standard_dock::yellow_buoy_link::yellow_buoy] advertised on [world/warehouse/model/standard_dock/link/yellow_buoy_link/sensor/yellow_buoy/scan]
+(2026-03-16T17:14:50.601013620) (2026-03-16T17:14:50.601016625) [Dbg] [GpuLidarSensor.cc:164] Lidar points for [standard_dock::yellow_buoy_link::yellow_buoy] advertised on [world/warehouse/model/standard_dock/link/yellow_buoy_link/sensor/yellow_buoy/scan/points]
+(2026-03-16T17:14:50.812506819) (2026-03-16T17:14:50.812512745) [Wrn] [OgreGpuRays.cc:292] Horizontal FOV for GPU rays is capped at 180 degrees.

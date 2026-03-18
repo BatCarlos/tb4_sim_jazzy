@@ -1,0 +1,66 @@
+(2026-03-18T01:22:03.766239656) (2026-03-18T01:22:03.766633460) [Dbg] [gz.cc:166] Subscribing to [/gazebo/starting_world].
+(2026-03-18T01:22:03.790594897) (2026-03-18T01:22:03.791279889) [Dbg] [gz.cc:168] Waiting for a world to be set(2026-03-18T01:22:03.942295853) (2026-03-18T01:22:03.942311961) [Dbg] [Application.cc:96] Initializing application.
+(2026-03-18T01:22:03.942428147) (2026-03-18T01:22:03.942432927) [Dbg] [Application.cc:170] Qt using OpenGL graphics interface
+(2026-03-18T01:22:03.947200580) (2026-03-18T01:22:03.947214778) [GUI] [Dbg] [Application.cc:657] Create main window
+(2026-03-18T01:22:04.265800759) (2026-03-18T01:22:04.265821159) [GUI] [Dbg] [PathManager.cc:68] Requesting resource paths through [/gazebo/resource_paths/get]
+(2026-03-18T01:22:04.292819123) (2026-03-18T01:22:04.292831871) [GUI] [Dbg] [Gui.cc:355] GUI requesting list of world names. The server may be busy downloading resources. Please be patient.
+(2026-03-18T01:22:05.302523202) (2026-03-18T01:22:05.302541507) [GUI] [Dbg] [PathManager.cc:57] Received resource paths.
+(2026-03-18T01:22:05.302722251) (2026-03-18T01:22:05.302735755) [GUI] [Dbg] [GuiRunner.cc:149] Requesting initial state from [/world/warehouse/state]...
+(2026-03-18T01:22:05.403967020) (2026-03-18T01:22:05.404024125) [GUI] [Msg] Loading config [/turtle_ws/install/turtlebot4_gz_bringup/share/turtlebot4_gz_bringup/gui/standard/gui.config]
+(2026-03-18T01:22:05.404233528) (2026-03-18T01:22:05.404265142) [GUI] [Dbg] [Application.cc:528] Loading plugin [MinimalScene]
+(2026-03-18T01:22:05.425779185) (2026-03-18T01:22:05.425786744) [GUI] [Dbg] [MinimalScene.cc:802] Creating gz-rendering interface for OpenGL
+(2026-03-18T01:22:05.425826664) (2026-03-18T01:22:05.425829935) [GUI] [Dbg] [MinimalScene.cc:802] Creating gz-rendering interface for OpenGL
+(2026-03-18T01:22:05.425845620) (2026-03-18T01:22:05.425848840) [GUI] [Dbg] [MinimalScene.cc:986] Creating render thread interface for OpenGL
+(2026-03-18T01:22:05.426198323) (2026-03-18T01:22:05.426203109) [GUI] [Dbg] [MinimalScene.cc:802] Creating gz-rendering interface for OpenGL
+(2026-03-18T01:22:05.426214080) (2026-03-18T01:22:05.426218797) [GUI] [Dbg] [MinimalScene.cc:986] Creating render thread interface for OpenGL
+(2026-03-18T01:22:05.497101652) (2026-03-18T01:22:05.497154255) [GUI] [Msg] Added plugin [3D View] to main window
+(2026-03-18T01:22:05.498015243) (2026-03-18T01:22:05.498223850) [GUI] [Msg] Loaded plugin [MinimalScene] from path [/opt/ros/jazzy/opt/gz_gui_vendor/lib/gz-gui-8/plugins/libMinimalScene.so]
+(2026-03-18T01:22:05.498327588) (2026-03-18T01:22:05.498338461) [GUI] [Dbg] [Application.cc:528] Loading plugin [GzSceneManager]
+(2026-03-18T01:22:05.602413480) (2026-03-18T01:22:05.602711548) [GUI] [Msg] Added plugin [Scene Manager] to main window
+(2026-03-18T01:22:05.602915598) (2026-03-18T01:22:05.602926055) [GUI] [Msg] Loaded plugin [GzSceneManager] from path [/opt/ros/jazzy/opt/gz_sim_vendor/lib/gz-sim-8/plugins/gui/libGzSceneManager.so]
+(2026-03-18T01:22:05.602981112) (2026-03-18T01:22:05.602989472) [GUI] [Dbg] [Application.cc:528] Loading plugin [InteractiveViewControl]
+(2026-03-18T01:22:05.610967507) (2026-03-18T01:22:05.610990439) [GUI] [Msg] Camera view controller topic advertised on [/gui/camera/view_control]
+(2026-03-18T01:22:05.611226006) (2026-03-18T01:22:05.611240768) [GUI] [Msg] Camera reference visual topic advertised on [/gui/camera/view_control/reference_visual]
+(2026-03-18T01:22:05.612024766) (2026-03-18T01:22:05.612042009) [GUI] [Msg] Camera view control sensitivity advertised on [/gui/camera/view_control/sensitivity]
+(2026-03-18T01:22:05.667331011) (2026-03-18T01:22:05.667364341) [GUI] [Msg] Added plugin [Interactive view control] to main window
+(2026-03-18T01:22:05.667614005) (2026-03-18T01:22:05.667633256) [GUI] [Msg] Loaded plugin [InteractiveViewControl] from path [/opt/ros/jazzy/opt/gz_gui_vendor/lib/gz-gui-8/plugins/libInteractiveViewControl.so]
+(2026-03-18T01:22:05.667726366) (2026-03-18T01:22:05.667736616) [GUI] [Dbg] [Application.cc:528] Loading plugin [WorldControl]
+(2026-03-18T01:22:05.743731361) (2026-03-18T01:22:05.743754489) [GUI] [Msg] Using world control service [/world/warehouse/control]
+(2026-03-18T01:22:05.750677044) (2026-03-18T01:22:05.750704669) [GUI] [Msg] Listening to stats on [/world/warehouse/stats]
+(2026-03-18T01:22:05.750775714) (2026-03-18T01:22:05.750783777) [GUI] [Dbg] [WorldControl.cc:237] Using an event to share WorldControl msgs with the server
+(2026-03-18T01:22:05.809216743) (2026-03-18T01:22:05.809231672) [GUI] [Msg] Added plugin [World control] to main window
+(2026-03-18T01:22:05.809298318) (2026-03-18T01:22:05.809302153) [GUI] [Msg] Loaded plugin [WorldControl] from path [/opt/ros/jazzy/opt/gz_gui_vendor/lib/gz-gui-8/plugins/libWorldControl.so]
+(2026-03-18T01:22:05.809346748) (2026-03-18T01:22:05.809350815) [GUI] [Dbg] [Application.cc:528] Loading plugin [WorldStats]
+(2026-03-18T01:22:05.825770204) (2026-03-18T01:22:05.825781796) [GUI] [Msg] Listening to stats on [/world/warehouse/stats]
+(2026-03-18T01:22:05.873648910) (2026-03-18T01:22:05.873665046) [GUI] [Msg] Added plugin [World stats] to main window
+(2026-03-18T01:22:05.873798384) (2026-03-18T01:22:05.873803020) [GUI] [Msg] Loaded plugin [WorldStats] from path [/opt/ros/jazzy/opt/gz_gui_vendor/lib/gz-gui-8/plugins/libWorldStats.so]
+(2026-03-18T01:22:05.873860871) (2026-03-18T01:22:05.873865171) [GUI] [Dbg] [Application.cc:528] Loading plugin [TransformControl]
+(2026-03-18T01:22:05.961630777) (2026-03-18T01:22:05.961659740) [GUI] [Msg] Added plugin [Transform control] to main window
+(2026-03-18T01:22:05.961809711) (2026-03-18T01:22:05.961818694) [GUI] [Msg] Loaded plugin [TransformControl] from path [/opt/ros/jazzy/opt/gz_sim_vendor/lib/gz-sim-8/plugins/gui/libTransformControl.so]
+(2026-03-18T01:22:05.961898943) (2026-03-18T01:22:05.961906033) [GUI] [Dbg] [Application.cc:528] Loading plugin [Shapes]
+(2026-03-18T01:22:05.994054748) (2026-03-18T01:22:05.994067064) [GUI] [Msg] Added plugin [Shapes] to main window
+(2026-03-18T01:22:05.994135298) (2026-03-18T01:22:05.994139993) [GUI] [Msg] Loaded plugin [Shapes] from path [/opt/ros/jazzy/opt/gz_sim_vendor/lib/gz-sim-8/plugins/gui/libShapes.so]
+(2026-03-18T01:22:05.994185323) (2026-03-18T01:22:05.994190111) [GUI] [Dbg] [Application.cc:528] Loading plugin [Turtlebot4Hmi]
+(2026-03-18T01:22:06.32408903) (2026-03-18T01:22:06.32417939) [GUI] [Wrn] [Application.cc:908] [QT] file::/Turtlebot4Hmi/Turtlebot4Hmi.qml:102:7: Unable to assign [undefined] to QString
+(2026-03-18T01:22:06.45986209) (2026-03-18T01:22:06.45996227) [GUI] [Msg] Added plugin [Turtlebot4 HMI] to main window
+(2026-03-18T01:22:06.46025088) (2026-03-18T01:22:06.46027528) [GUI] [Msg] Loaded plugin [Turtlebot4Hmi] from path [/turtle_ws/install/turtlebot4_gz_gui_plugins/share/turtlebot4_gz_gui_plugins/lib/libTurtlebot4Hmi.so]
+(2026-03-18T01:22:06.46052574) (2026-03-18T01:22:06.46054886) [GUI] [Dbg] [Application.cc:528] Loading plugin [Teleop]
+(2026-03-18T01:22:06.71103766) (2026-03-18T01:22:06.71111963) [GUI] [Msg] A new topic has been entered: '/cmd_vel ' 
+(2026-03-18T01:22:06.81395010) (2026-03-18T01:22:06.81403821) [GUI] [Msg] Added plugin [Teleop] to main window
+(2026-03-18T01:22:06.81433208) (2026-03-18T01:22:06.81435601) [GUI] [Msg] Loaded plugin [Teleop] from path [/opt/ros/jazzy/opt/gz_gui_vendor/lib/gz-gui-8/plugins/libTeleop.so]
+(2026-03-18T01:22:06.81462536) (2026-03-18T01:22:06.81464862) [GUI] [Dbg] [Application.cc:671] Applying config
+(2026-03-18T01:22:06.96927321) (2026-03-18T01:22:06.96934977) [GUI] [Wrn] [Application.cc:908] [QT] file::/WorldStats/WorldStats.qml:53:3: QML RowLayout: Binding loop detected for property "x"
+(2026-03-18T01:22:06.119604990) (2026-03-18T01:22:06.119620478) [GUI] [Dbg] [MinimalScene.cc:802] Creating gz-rendering interface for OpenGL
+(2026-03-18T01:22:06.119638717) (2026-03-18T01:22:06.119641012) [GUI] [Dbg] [MinimalScene.cc:986] Creating render thread interface for OpenGL
+(2026-03-18T01:22:06.212442000) (2026-03-18T01:22:06.212448838) [GUI] [Msg] Loading plugin [gz-rendering-ogre2]
+(2026-03-18T01:22:06.423320456) (2026-03-18T01:22:06.423338389) [GUI] [Dbg] [MinimalScene.cc:749] Create scene [scene]
+(2026-03-18T01:22:06.658082064) (2026-03-18T01:22:06.658103986) [GUI] [Dbg] [MinimalScene.cc:1037] Creating texture node render interface for OpenGL
+(2026-03-18T01:22:06.845905002) (2026-03-18T01:22:06.846306730) [GUI] [Dbg] [TransformControl.cc:453] TransformControl plugin is using camera [scene::Camera(65527)]
+(2026-03-18T01:22:06.847048144) (2026-03-18T01:22:06.847062555) [GUI] [Dbg] [InteractiveViewControl.cc:176] InteractiveViewControl plugin is moving camera [scene::Camera(65527)]
+(2026-03-18T01:22:11.400298661) (2026-03-18T01:22:11.400307734) [GUI] [Wrn] [Component.hh:172] Trying to deserialize component with data type [St10shared_ptrIN3sdf3v147ElementEE], which doesn't have `operator>>`. Component will not be deserialized.
+(2026-03-18T01:22:12.216714043) (2026-03-18T01:22:12.216725086) [GUI] [Wrn] [OBJLoader.cc:91] Both `d` and `Tr` parameters defined for "Chair". Use the value of `d` for dissolve (line 8 in .mtl.)
+
+(2026-03-18T01:22:12.345853481) (2026-03-18T01:22:12.345859273) [GUI] [Wrn] [OBJLoader.cc:91] Both `d` and `Tr` parameters defined for "CoffeeTable". Use the value of `d` for dissolve (line 8 in .mtl.)
+
+(2026-03-18T01:22:13.531121768) (2026-03-18T01:22:13.531132629) [GUI] [Wrn] [ColladaLoader.cc:2395] Triangle input semantic: 'COLOR' is currently not supported
+(2026-03-18T01:22:13.638822474) (2026-03-18T01:22:13.638866079) [GUI] [Wrn] [ColladaLoader.cc:2395] Triangle input semantic: 'COLOR' is currently not supported
